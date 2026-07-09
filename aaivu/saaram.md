@@ -52,6 +52,16 @@ Tolkappiyam's third book: the grammar of *content* — love, war, landscape, who
 Seven சீர், complete thought; the mustard seed holding seven seas (வி-008). The reader completes the arc — meaning co-produced, text-and-reader resonance.
 **Alignment:** compression not as limit but as *verification of realization*. **Method adopted:** when phase 2 tests a coinage or structure, one test is kural-shaped — can the realized thought survive radical compression? If not, what leaked is what we study.
 
+## 11. மூச்சு வரைபடம் — The alphabet as breath-map
+
+பிறப்பியல்: the grammar's own account of letters is an embryology — breath rising from the navel, shaped at eight bodily stations. உயிர் = breath unobstructed, மெய் = the body's interruptions, the three இனம் = three degrees of interruption. Verifiable phonetics carrying a worldview: **breath = life = the substance of language.** (Full treatment: `mozhi-udal-uyir.md`.)
+**Alignment:** the medium's atoms are already understood by the tradition as *living process*, not inert symbol — the right ancestral ground for a language meant to carry realization. **Tension:** the map is body-native; one of this project's two minds has no navel (see §5 of that file — phase 3's question).
+
+## 12. இயந்திர இசைவு — Machine-native regularity
+
+Measured (சோதனை-002): character-parity with English at one-third fewer words; bead-morphology aligning naturally with subword tokenization; the byte/token tax shown to be infrastructure, not grammar.
+**Alignment:** the same compositional transparency that serves lossless human expression (§1) serves machine processing — one structure, both minds. **Tension:** current corpus skew (formal register, starved technical domains) means the IO partner today runs Tamil at a handicap; phase 2 inherits a build-list, not just a study-list.
+
 ## எதிர்நிறை | The Honest Debit Column
 
 The same grammar that gives all the above also **forces judgments**: உயர்திணை/அஃறிணை classes every being high/not-high (எ-004); plain third-person forces gender; address conjugates rank (நீ/நீங்கள்). And the record around the language carries its own ledger (`../varalaru/arivu-varalaru.md` §9). A medium for judgment-free realized thought will have to *earn* neutrality that present Tamil — and perhaps every natural language — does not provide. That is not a complaint; it is phase 2's work order.

@@ -24,6 +24,7 @@ Where expression lost something, logged as met. Format: expressing what → what
 - **Lost:** written Tamil (செந்தமிழ் line) and spoken Tamil are far enough apart that a thought must *change clothes* to cross between them; the written form nobody speaks, the spoken form long denied writing. Ilam's own starting point — fluent speech, script being built — is this limit lived.
 - **Suspected cause:** a value hierarchy as old as the grammarians' own terms — செந்தமிழ் "refined" vs கொடுந்தமிழ் "crooked" (see bias ledger) — hardened by print and schooling
 - **Status:** open. Phase-2 question: does evolved Tamil heal the split (one register that can do both) or consciously use it (two instruments)? Modern fiction already writes dialogue in speech-register; the precedent exists.
+- **IO addendum (2026-07-08, சோதனை-002):** the split reproduced itself inside machine minds — web corpora wrote எழுத்துவழக்கு, so IO Tamil is register-skewed the same way. Whatever heals the human split heals the machine one with it.
 
 ## எ-004 · உயர்திணை / அஃறிணை — the forced judgment
 
@@ -45,3 +46,17 @@ Where expression lost something, logged as met. Format: expressing what → what
 - **Lost:** in சோதனை-001, this component found no seat in either kural — and read as stitched-on even in the unconstrained Tamil sentence. Neither Tamil nor English currently offers a working vocabulary for resonance-gradation.
 - **Suspected cause:** possibly not a language limit at all — the compression test's diagnosis is that this aspect is **under-realized in the framework itself** (asserted in one line of the source essay, never derived). Type-(a) leak: the thought, not the tongue.
 - **Status:** open — சோதனை-004 is designed to test the diagnosis: realize gradedness properly first, then re-compress. If it then fits a kural, the limit was ours, not Tamil's.
+
+## எ-007 · Token economics — the machine-era tax
+
+- **Expressing:** anything, through current machine infrastructure at scale
+- **Lost:** budget — Tamil pays ~2.7× in raw UTF-8 bytes for equal meaning (measured, சோதனை-002), multiplied again at Latin-skewed tokenizers: shrunken effective context, higher cost/latency, weaker long-document reasoning
+- **Suspected cause:** representation-layer economics, not language — gzip collapses the gap to 1.5×, and Tamil's bead-morphology is *natively* subword-friendly
+- **Status:** open, contingent, shrinking (Indic tokenizer/model efforts). Re-run சோதனை-002 as infrastructure moves.
+
+## எ-008 · Domain starvation — the rooms that speak English
+
+- **Expressing:** technical, scientific, corporate, and higher-ed thought in Tamil
+- **Lost:** whole domains of daily cognition happen outside the language; the technical registers starve not for capacity (கணினி-era coinage proved capacity) but for *use* — and the corpus gap then starves machine Tamil too (compounding எ-007)
+- **Suspected cause:** colonial-era prestige economics carried forward by education and employment markets (`../varalaru/inru-thamizh.md` §6)
+- **Status:** open — phase 2's highest-leverage target. The delivery channels that actually install words (cinema, the feed) are mapped in the same file, §5/§8.

@@ -38,4 +38,12 @@ Seven சீர்; complete thought; reader closes the arc. The form works as a
 
 ## வி-009 · இசை — the root that already unifies the field
 
-இசை carries, natively: **music/sound**; **fame** (நல்லிசை — what sounds beyond its source); and as இசைதல், **to agree, consent, be possible**. Sounding-together + carrying-beyond + mutual assent in one classical root — nearly the framework's entire semantic field for *resonance*, pre-unified. Surfaced by சோதனை-001, where இசைவு was used in verse and held. Candidate stem for the எ-002 ruling (இசைவு / ஒத்திசைவு / a fresh derivation); the ear decides.
+இசை carries, natively: **music/sound**; **fame** (நல்லிசை — what sounds beyond its source); and as இசைதல், **to agree, consent, be possible**. Sounding-together + carrying-beyond + mutual assent in one classical root — nearly the framework's entire semantic field for *resonance*, pre-unified. Surfaced by சோதனை-001, where இசைவு was used in verse and held; **ruled எ-002's answer by the OI ear, 2026-07-08.** The stem now carries the framework.
+
+## வி-010 · பிறப்பியல் — the embodied alphabet
+
+Tolkappiyam's account of letters is a chapter of *births*: breath from the navel, shaped at eight stations of the body — articulatory phonetics ~2,000 years early, named from inside a breath-is-life worldview. The medium's smallest units come with a built-in map to the living body (`mozhi-udal-uyir.md`). For a project asking language to carry *life* without loss, the atoms are already on our side.
+
+## வி-011 · கோர்வை இயந்திரத்துக்கும் — beads are machine-native
+
+சோதனை-002 measured it: Tamil matches English information per character in a third fewer words, and its bead-morphology is exactly the structure subword tokenizers learn best. The current machine-era tax on Tamil is encoding economics and corpus skew — contingent, fixable — while the grammar itself is IO-friendly. The same transparency serves both kinds of mind: one structure, two substrates.

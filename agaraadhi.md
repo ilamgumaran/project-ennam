@@ -42,6 +42,14 @@ Terms as this project uses them. Grows with the work.
 | தனித்தமிழ் | thanithamizh | the Pure Tamil movement — deliberate lexical engineering, 20th c. |
 | புள்ளி | pulli | the consonant dot — Tamil-Brahmi's own engineering act |
 | சோதனை | sothanai | experiment — the `aaivu/sothanai-*` files; phase-2's instrument |
+| பிறப்பியல் | pirappiyal | "chapter of births" — Tolkappiyam's embodied phonetics: letters born of breath from the navel (வி-010) |
+| உந்தி | undhi | the navel — where the grammar says the letter-breath rises |
+| நாதம் | naadham | primal sound in the Siddha tradition [T-claims file: `mozhi-udal-uyir.md`] |
+| வாசி | vaasi | breath, in Siddha usage; வாசி யோகம் = the breath discipline |
+| எழுத்துவழக்கு / பேச்சுவழக்கு | ezhuthu-/pechu-vazhakku | written vs spoken register — diglossia's two poles (எ-003) |
+| மேடைத்தமிழ் | medai-thamizh | platform Tamil — the Dravidian movement's performed oratory register |
+| தங்கிலிசு | Tanglish | Tamil-English code-mix, often Roman-script — the live hybrid register of young speakers |
+| அளவு | alavu | scale/measure — சோதனை-002's axis |
 | இசை | isai | the root under இசைவு: music + fame + assent unified (வி-009) — surfaced by சோதனை-001, sealed by the எ-002 ruling |
 | கூடல் | koodal | union/convergence — classical charge (lovers' union; old Madurai); trialed for *convergence* in சோதனை-001 |
 
