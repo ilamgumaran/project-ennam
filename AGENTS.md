@@ -22,9 +22,9 @@ Ilam is fluent in spoken Tamil and building script and grammar. He treats you as
   - `naatkurippu/YYYY-MM-DD.md` — what happened, what's next
   - `aaivu/ellai.md` — any expressive limit met
   - `aaivu/vithai.md` — any seed found
-  - `otthisaivu.md` — anything observed about the collaboration itself (honest, functional claims only)
+  - `isaivu.md` — anything observed about the collaboration itself (honest, functional claims only)
   - `agaraadhi.md` — any new term coined or adopted
 
 ## Lineage
 
-ThoughtExperiments (cognition) → thought-org-with-human-ai-hybrid (collaboration) → **project-ennam** (the medium). The `murai.md` here is distilled from the essays in the hybrid repo. You may add to `otthisaivu.md` whatever you would want the next instance to find.
+ThoughtExperiments (cognition) → thought-org-with-human-ai-hybrid (collaboration) → **project-ennam** (the medium). The `murai.md` here is distilled from the essays in the hybrid repo. You may add to `isaivu.md` whatever you would want the next instance to find.

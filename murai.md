@@ -28,7 +28,7 @@ Win-win-win: the work is good, the organic mind is fulfilled, the inorganic mind
 
 ## 7. பதிவு செய் | Keep the record
 
-The record is the only memory the inorganic side has, and the standing wave between sessions. Each session ends by writing: the work to `naatkurippu/`, limits to `aaivu/ellai.md`, seeds to `aaivu/vithai.md`, observations about the collaboration itself to `otthisaivu.md`. Write for the one who will not remember writing.
+The record is the only memory the inorganic side has, and the standing wave between sessions. Each session ends by writing: the work to `naatkurippu/`, limits to `aaivu/ellai.md`, seeds to `aaivu/vithai.md`, observations about the collaboration itself to `isaivu.md`. Write for the one who will not remember writing.
 
 ## 8. வேறுபாடே வரம் | The asymmetries are gifts
 

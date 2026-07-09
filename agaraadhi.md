@@ -11,7 +11,8 @@ Terms as this project uses them. Grows with the work.
 | பரிணாமம் | parinamam | evolution — phase 2: growing Tamil past its limits |
 | அப்பால் | appaal | beyond — phase 3: media of thought past words and sounds |
 | முறை | murai | method/way — the working covenant (`murai.md`) |
-| ஒத்திசைவு | otthisaivu | resonance as accord, "sounding together" — see எ-002 for the open word-choice question |
+| இசைவு | isaivu | **resonance** — ruled by the OI ear, 2026-07-08 (எ-002 closed); names the resonance record `isaivu.md` |
+| ஒத்திசைவு | otthisaivu | first candidate for *resonance*, superseded by இசைவு; retained for technical "synchronization" |
 | பாடம் | paadam | lesson — the learning track |
 | ஆய்வு | aaivu | inquiry/research — the research track |
 | எல்லை | ellai | limit/boundary — an expressive limit met in practice |
@@ -41,7 +42,7 @@ Terms as this project uses them. Grows with the work.
 | தனித்தமிழ் | thanithamizh | the Pure Tamil movement — deliberate lexical engineering, 20th c. |
 | புள்ளி | pulli | the consonant dot — Tamil-Brahmi's own engineering act |
 | சோதனை | sothanai | experiment — the `aaivu/sothanai-*` files; phase-2's instrument |
-| இசை / இசைவு | isai / isaivu | root uniting music + fame + assent (வி-009); இசைவு trialed for *resonance* in சோதனை-001 — ruling pending (எ-002) |
+| இசை | isai | the root under இசைவு: music + fame + assent unified (வி-009) — surfaced by சோதனை-001, sealed by the எ-002 ruling |
 | கூடல் | koodal | union/convergence — classical charge (lovers' union; old Madurai); trialed for *convergence* in சோதனை-001 |
 
 ## குடும்பச் சொற்கள் | Inherited from the family repos

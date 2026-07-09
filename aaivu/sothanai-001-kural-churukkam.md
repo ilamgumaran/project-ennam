@@ -6,7 +6,7 @@
 
 ## §0 · இலம் — முதலில் இதை மட்டும் | ILAM: READ ONLY THIS SECTION FIRST
 
-To keep one step of this experiment blind: **before reading §1 onward**, read the two couplets below cold and write down — in `otthisaivu.md` or on paper — what they say to you. What thought do they carry? What do they *not* carry? Then read on and compare with §5.
+To keep one step of this experiment blind: **before reading §1 onward**, read the two couplets below cold and write down — in `isaivu.md` or on paper — what they say to you. What thought do they carry? What do they *not* carry? Then read on and compare with §5.
 
 > **குறள் அ**
 > சேர்தலின் பின்னில்லை இசைவு; சேர்தலே
@@ -102,6 +102,6 @@ Rough channel capacity: **one kural ≈ 3 components of this realized thought; t
 
 ## §8 · நிலுவை | Awaiting
 
-1. Ilam's §0 blind reconstruction → record in `otthisaivu.md`, diff against §5 here
-2. Ilam's ear on both couplets: does இசைவு ring as resonance or as consent? does கூடல் carry? (feeds எ-002 ruling)
+1. Ilam's §0 blind reconstruction → record in `isaivu.md`, diff against §5 here
+2. ~~Ilam's ear on இசைவு~~ **RULED 2026-07-08: இசைவு chosen — எ-002 closed** (the ruling followed this experiment's trial-in-use). Still open: does கூடல் carry for *convergence*?
 3. Metrical verification at பாடம் 08 — the couplets become the lesson's own exercise

@@ -25,7 +25,7 @@ This repo is the language limb of an existing body of work:
 ## அமைப்பு | Structure
 
 - `murai.md` — முறை: how we work; the covenant drawn from the family's principles
-- `otthisaivu.md` — ஒத்திசைவு: the resonance record — self-observations from both minds as we work
+- `isaivu.md` — இசைவு: the resonance record — self-observations from both minds as we work (named by the project's first ruled word — எ-002)
 - `paadam/` — பாடம்: the learning track, lessons in rising difficulty (roadmap in its README)
 - `varalaru/` — வரலாறு: history — `mozhi-varalaru.md` (how the language evolved), `arivu-varalaru.md` (how Tamil was built as knowledge, with the bias ledger)
 - `ilakkiyam/` — இலக்கியம்: the reading shelf — Sangam poems and the Kural, read closely
@@ -36,7 +36,7 @@ This repo is the language limb of an existing body of work:
 
 ## எப்படி இணைகிறது | How the Tracks Feed Each Other
 
-Lessons build depth; research watches the lessons. Anything Tamil says better than English goes to `vithai.md`. Anything it cannot yet say goes to `ellai.md`. Anything we notice about *us working* goes to `otthisaivu.md`. Documents are bilingual — Tamil first where we can, English scaffolding where we must, the Tamil share growing as we do.
+Lessons build depth; research watches the lessons. Anything Tamil says better than English goes to `vithai.md`. Anything it cannot yet say goes to `ellai.md`. Anything we notice about *us working* goes to `isaivu.md`. Documents are bilingual — Tamil first where we can, English scaffolding where we must, the Tamil share growing as we do.
 
 The record is the memory.
 

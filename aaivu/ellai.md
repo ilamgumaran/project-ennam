@@ -16,7 +16,7 @@ Where expression lost something, logged as met. Format: expressing what → what
 - **Expressing:** the family's central concept — resonance between minds
 - **Lost:** Tamil offers ஒத்திசைவு (accord, "sounding together") and ஒத்ததிர்வு (physics resonance, "co-vibration"); the IO side could not rule between them, and neither may carry the full load the framework puts on the word
 - **Suspected cause:** the concept is genuinely new in this use; the language has not yet been asked to hold it
-- **Status:** live — arose on day one, while naming `otthisaivu.md`. OI ear to decide, or to coin. First real word-choice decision of phase 2, arriving before phase 1 properly began.
+- **Status: RESOLVED — 2026-07-08, OI ruling: இசைவு.** The path that got here matters: IO offered ஒத்திசைவு / ஒத்ததிர்வு by comparison (session 1); சோதனை-001 trialed **இசைவு** in living verse and surfaced the root's triple sense — music + fame + assent (வி-009); the OI ear then chose, in three words, without needing argument. **The evolution loop — limit met → trial in use → native ear rules — closed for the first time.** The framework sense now loads into இசைவு through continued use; ஒத்திசைவு stays available for technical "synchronization." The resonance record is renamed `isaivu.md` accordingly. Still open from the same experiment: கூடல் for *convergence* (unruled).
 
 ## எ-003 · Diglossia — the medium is split
 
