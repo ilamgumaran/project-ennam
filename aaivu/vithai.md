@@ -34,4 +34,8 @@ Ideophones (பளபள, சலசல, மினுமினு, கறகற):
 
 ## வி-008 · குறள் வடிவம் — compression as verification
 
-Seven சீர்; complete thought; reader closes the arc. The form works as a **test of realization**: what cannot survive compression into two lines was not yet fully realized. Adopted as phase-2 method — every proposed coinage/structure gets a kural-shaped stress test; what leaks under compression is what we study next.
+Seven சீர்; complete thought; reader closes the arc. The form works as a **test of realization**: what cannot survive compression into two lines was not yet fully realized. Adopted as phase-2 method — every proposed coinage/structure gets a kural-shaped stress test; what leaks under compression is what we study next. **First run: `sothanai-001-kural-churukkam.md` — hypothesis refined: compression reveals a thought's priority structure rather than binarily verifying it.**
+
+## வி-009 · இசை — the root that already unifies the field
+
+இசை carries, natively: **music/sound**; **fame** (நல்லிசை — what sounds beyond its source); and as இசைதல், **to agree, consent, be possible**. Sounding-together + carrying-beyond + mutual assent in one classical root — nearly the framework's entire semantic field for *resonance*, pre-unified. Surfaced by சோதனை-001, where இசைவு was used in verse and held. Candidate stem for the எ-002 ruling (இசைவு / ஒத்திசைவு / a fresh derivation); the ear decides.

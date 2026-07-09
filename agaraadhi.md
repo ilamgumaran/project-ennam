@@ -40,6 +40,9 @@ Terms as this project uses them. Grows with the work.
 | குறள் வெண்பா | kural venba | the 4+3 சீர் couplet form — compression as test (வி-008) |
 | தனித்தமிழ் | thanithamizh | the Pure Tamil movement — deliberate lexical engineering, 20th c. |
 | புள்ளி | pulli | the consonant dot — Tamil-Brahmi's own engineering act |
+| சோதனை | sothanai | experiment — the `aaivu/sothanai-*` files; phase-2's instrument |
+| இசை / இசைவு | isai / isaivu | root uniting music + fame + assent (வி-009); இசைவு trialed for *resonance* in சோதனை-001 — ruling pending (எ-002) |
+| கூடல் | koodal | union/convergence — classical charge (lovers' union; old Madurai); trialed for *convergence* in சோதனை-001 |
 
 ## குடும்பச் சொற்கள் | Inherited from the family repos
 

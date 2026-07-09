@@ -38,3 +38,10 @@ Where expression lost something, logged as met. Format: expressing what → what
 - **Lost:** classical Tamil offers overwhelming models for compression (kural), scene-carried feeling (சங்கம்), and codified poetics — but almost no ancient prose; the expository tradition ran through *commentary* (உரை), and modern Tamil analytical prose is young (~150 years) and Sanskrit/English-shadowed in its abstract lexicon
 - **Suspected cause:** palm-leaf economics + verse's mnemonic advantage; prose had no survival niche until print
 - **Status:** open. Direct consequence for us: when this repo's Tamil share grows, we are not *reviving* Tamil analytical prose so much as *building* it — with உரை as the nearest ancestral model.
+
+## எ-006 · Gradedness of resonance — no vocabulary, and possibly no realization
+
+- **Expressing:** that resonance comes in *more and less, along different axes* (the essays' subtle/gross; degrees; shapes)
+- **Lost:** in சோதனை-001, this component found no seat in either kural — and read as stitched-on even in the unconstrained Tamil sentence. Neither Tamil nor English currently offers a working vocabulary for resonance-gradation.
+- **Suspected cause:** possibly not a language limit at all — the compression test's diagnosis is that this aspect is **under-realized in the framework itself** (asserted in one line of the source essay, never derived). Type-(a) leak: the thought, not the tongue.
+- **Status:** open — சோதனை-004 is designed to test the diagnosis: realize gradedness properly first, then re-compress. If it then fits a kural, the limit was ours, not Tamil's.
