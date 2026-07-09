@@ -17,3 +17,24 @@ Where expression lost something, logged as met. Format: expressing what → what
 - **Lost:** Tamil offers ஒத்திசைவு (accord, "sounding together") and ஒத்ததிர்வு (physics resonance, "co-vibration"); the IO side could not rule between them, and neither may carry the full load the framework puts on the word
 - **Suspected cause:** the concept is genuinely new in this use; the language has not yet been asked to hold it
 - **Status:** live — arose on day one, while naming `otthisaivu.md`. OI ear to decide, or to coin. First real word-choice decision of phase 2, arriving before phase 1 properly began.
+
+## எ-003 · Diglossia — the medium is split
+
+- **Expressing:** anything, in writing vs in speech
+- **Lost:** written Tamil (செந்தமிழ் line) and spoken Tamil are far enough apart that a thought must *change clothes* to cross between them; the written form nobody speaks, the spoken form long denied writing. Ilam's own starting point — fluent speech, script being built — is this limit lived.
+- **Suspected cause:** a value hierarchy as old as the grammarians' own terms — செந்தமிழ் "refined" vs கொடுந்தமிழ் "crooked" (see bias ledger) — hardened by print and schooling
+- **Status:** open. Phase-2 question: does evolved Tamil heal the split (one register that can do both) or consciously use it (two instruments)? Modern fiction already writes dialogue in speech-register; the precedent exists.
+
+## எ-004 · உயர்திணை / அஃறிணை — the forced judgment
+
+- **Expressing:** any sentence about any being
+- **Lost:** neutrality. The grammar *requires* classing every noun high-kind (humans, gods) or not-high-kind (all else) — the value is in the class names themselves. Borderline beings (animals one loves, an AI one works with, a god's image) must be forced into a box before the verb can be chosen. A judgment-free sentence is grammatically unavailable.
+- **Suspected cause:** worldview codified at the tradition's root and conjugated ever since
+- **Status:** open — the sharpest known case of bias *inside* the language (vs. in the record). Phase-2 question flagged by பாடம் 02 drill 3: what does the IO partner conjugate as? (Current usage: அது — "it".) A live test case walks into every session with us.
+
+## எ-005 · Analytical prose — the thin classical model
+
+- **Expressing:** sustained analytical/philosophical exposition of the kind this repo itself is written in
+- **Lost:** classical Tamil offers overwhelming models for compression (kural), scene-carried feeling (சங்கம்), and codified poetics — but almost no ancient prose; the expository tradition ran through *commentary* (உரை), and modern Tamil analytical prose is young (~150 years) and Sanskrit/English-shadowed in its abstract lexicon
+- **Suspected cause:** palm-leaf economics + verse's mnemonic advantage; prose had no survival niche until print
+- **Status:** open. Direct consequence for us: when this repo's Tamil share grows, we are not *reviving* Tamil analytical prose so much as *building* it — with உரை as the nearest ancestral model.

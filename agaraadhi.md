@@ -18,6 +18,28 @@ Terms as this project uses them. Grows with the work.
 | விதை | vithai | seed — a place where Tamil already outruns other languages, or raw material for evolution |
 | நாட்குறிப்பு | naatkurippu | journal — one entry per session |
 | அகராதி | agaraadhi | dictionary — this file |
+| வரலாறு | varalaru | history — the `varalaru/` shelf: language evolution + knowledge/bias audit |
+| இலக்கியம் | ilakkiyam | literature — the reading shelf |
+| சாரம் | saaram | essence — extracted patterns (`aaivu/saaram.md`) |
+
+## கற்றலில் வந்த சொற்கள் | Terms the work brought in (session 2)
+
+| தமிழ் | Translit. | As used here |
+|---|---|---|
+| சங்கம் | sangam | the classical corpus/era (~300 BCE–300 CE); also the legendary academies |
+| அகம் / புறம் | akam / puram | interior (love) / exterior (war, praise, wisdom) — the corpus's great divide |
+| திணை | thinai | landscape-code: five lands mapping inner states (ஐந்திணை) |
+| உள்ளுறை | ullurai | implied meaning carried by scene — codified implicature |
+| ஐந்திலக்கணம் | aindhilakkanam | the five-fold grammar: எழுத்து, சொல், பொருள், யாப்பு, அணி |
+| உயர்திணை / அஃறிணை | uyartinai / ahrinai | grammar's mandatory "high-kind / not-high-kind" classing (எ-004) |
+| புணர்ச்சி | punarchi | sandhi — sound changes where word-parts join |
+| இரட்டைக்கிளவி | irattaikkilavi | ideophones — sound-symbolic doubled words (பளபள…) |
+| செந்தமிழ் / கொடுந்தமிழ் | senthamizh / kodunthamizh | "refined" vs "crooked" Tamil — the grammarians' loaded register names; root of diglossia (எ-003) |
+| அளபெடை | alapedai | metrical vowel-stretching (படூஉம்) — duration as meaning |
+| உரை | urai | commentary — the tradition's engine of interpretation |
+| குறள் வெண்பா | kural venba | the 4+3 சீர் couplet form — compression as test (வி-008) |
+| தனித்தமிழ் | thanithamizh | the Pure Tamil movement — deliberate lexical engineering, 20th c. |
+| புள்ளி | pulli | the consonant dot — Tamil-Brahmi's own engineering act |
 
 ## குடும்பச் சொற்கள் | Inherited from the family repos
 

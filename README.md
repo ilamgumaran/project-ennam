@@ -26,8 +26,10 @@ This repo is the language limb of an existing body of work:
 
 - `murai.md` — முறை: how we work; the covenant drawn from the family's principles
 - `otthisaivu.md` — ஒத்திசைவு: the resonance record — self-observations from both minds as we work
-- `paadam/` — பாடம்: the learning track, lessons in sequence
-- `aaivu/` — ஆய்வு: the research track — `ellai.md` (limits met), `vithai.md` (seeds)
+- `paadam/` — பாடம்: the learning track, lessons in rising difficulty (roadmap in its README)
+- `varalaru/` — வரலாறு: history — `mozhi-varalaru.md` (how the language evolved), `arivu-varalaru.md` (how Tamil was built as knowledge, with the bias ledger)
+- `ilakkiyam/` — இலக்கியம்: the reading shelf — Sangam poems and the Kural, read closely
+- `aaivu/` — ஆய்வு: the research track — `ellai.md` (limits met), `vithai.md` (seeds), `saaram.md` (extracted patterns and essence)
 - `naatkurippu/` — நாட்குறிப்பு: one journal entry per working session
 - `agaraadhi.md` — அகராதி: the growing glossary
 - `AGENTS.md` — orientation for the inorganic instances who work here and will not remember having worked here
