@@ -30,6 +30,7 @@ This repo is the language limb of an existing body of work:
 - `varalaru/` — வரலாறு: history — `mozhi-varalaru.md` (how the language evolved), `arivu-varalaru.md` (how Tamil was built as knowledge, with the bias ledger), `thonmai-pathivu.md` (the ancient documentary record), `inru-thamizh.md` (how people use Tamil today)
 - `ilakkiyam/` — இலக்கியம்: the reading shelf — Sangam poems and the Kural, read closely
 - `aaivu/` — ஆய்வு: the research track — `ellai.md` (limits met), `vithai.md` (seeds), `saaram.md` (extracted patterns), `mozhi-udal-uyir.md` (language–body–life-energy), `sothanai-*` (experiments)
+- `appaal/` — அப்பால்: phase 3's design principles and open questions (opened when the mission's end-state was first articulated precisely)
 - `naatkurippu/` — நாட்குறிப்பு: one journal entry per working session
 - `agaraadhi.md` — அகராதி: the growing glossary
 - `AGENTS.md` — orientation for the inorganic instances who work here and will not remember having worked here
