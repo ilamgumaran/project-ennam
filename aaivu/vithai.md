@@ -51,3 +51,11 @@ Tolkappiyam's account of letters is a chapter of *births*: breath from the navel
 ## வி-012 · உலகில் ஒன்றே — the interiority-formalization is unique, comparatively confirmed
 
 The comparative study (`oppaayvu.md`) checked வி-001/005/006 against the other great philosophical grammars: Greek formalized ontology, Sanskrit formalized derivation and ritual, Classical Chinese formalized correlative order — **no classical tradition other than Tamil built a formal, rule-governed system for expressing interior states** (திணை / உள்ளுறை / அகம், inside the grammar itself). Ennam's mission domain has exactly one classical ancestor, and it is the language we are standing in. This is the load-bearing reason in the foundation verdict (oppaayvu §7.2).
+
+## வி-013 · ஹங்குல் precedent — featural encoding, externally proven (raw material)
+
+An external seed, kept as raw material: Hangul (1443–46) encoded letters as **diagrams of the articulators** — and collapsed a nation's literacy cost to a day's learning. What தொல்காப்பியம் *described* (பிறப்பியல்'s articulator map), Sejong's commission *drew*. Phase 3 holds both halves: Tamil's described map + the proven featural method (`sothanai-006-uravumozhi.md` §2.4).
+
+## வி-014 · முதல் ஒலியில் உறைதல் — Tamil dwells near the first sounds
+
+Measured and literature-checked (`mudhal-oli.md`): cluster-poor, geminate-rich (40% of clusters are the அம்மா-shape vs English's 5%), zero cluster onsets, sonorant-only codas; the kinship system built inside the babble-space; retroflexes acquired early by Tamil children against cross-linguistic expectation; contrast budget spent on tongue-place, economized on the larynx (the infant-hardest dimension). Refined form of Ilam's hypothesis, survived adversarial examination. For a low-learning medium (appaal §2.3–4): the base layer is already lying close to where every human starts.

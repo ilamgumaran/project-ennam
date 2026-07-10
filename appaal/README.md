@@ -21,6 +21,13 @@ Ilam, paraphrased from the exchange of 2026-07-09: *strict order has utilitarian
 
 The ஒப்பாய்வு scorecard measured affordances *for system-philosophy*. Ilam's question defines the **resonance scorecard** — different axes: attention-order alignment, iconic channel width, trigger-forms (reader-completion genres), generative-core size (how small is the seed that unlocks the rest), interference profile, two-substrate viability. On these axes Tamil's comparison class changes (Japanese and Korean — agglutinative, ideophone-rich, reader-completing forms — replace Sanskrit and Greek as neighbors), and Tamil's standing rests on: freed word order, the widest *codified* trigger-tradition (குறள்/உள்ளுறை), a living ideophone inventory, and a generative script. **Queued: the re-scoring on resonance axes** (சோதனை-006 candidate).
 
+## 3.1 · Additions from the kindred comparison and the first-sound study (2026-07-09)
+
+- **The featural precedent (Hangul):** encoding meaning-carriers as *diagrams of the body that produces them* is historically proven to collapse learning cost — principles 3–4 are not speculative; Sejong ran them in 1443. Queued design sketch: a featural rendering of Tamil's own பிறப்பியல் map.
+- **The gap taxonomy:** trigger-forms split into *open gaps* (haiku/kireji — low learning, variable arrival) and *coded gaps* (உள்ளுறை — lossless, tuition-priced). The medium wants the unclaimed corner: **a coded gap whose codebook is generative** (self-teaching).
+- **Graded iconicity (Korean):** systematic sound-alternation modulating felt intensity — the iconic channel is *systematizable*, not just collectable.
+- **New scorecard axis — distance from first sounds** (`../aaivu/mudhal-oli.md` P4): a low-learning medium should start where every human starts — the babble-space (open syllables, geminates, sonorant codas). Tamil measures close; the medium should stay closer.
+
 ## 4. நிலுவை | Open questions held here
 
 - Can a transition-calculus over திணை-like states stay iconic (motion/sound renders, as Koine's fields) rather than symbolic?

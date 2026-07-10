@@ -55,6 +55,10 @@ Terms as this project uses them. Grows with the work.
 | ஒப்பாய்வு | oppaayvu | comparative study — grammars measured against each other (`aaivu/oppaayvu.md`) |
 | தத்துவம் | thathuvam | philosophy/doctrine (Skt-derived, universal in usage) — the comparison's subject |
 | அளவை | alavai | logic/means-of-knowing (pramāṇa) — மணிமேகலை-era Tamil logic vocabulary |
+| மூத்த குடி | mootha kudi | "the elder lineage" — புறப்பொருள் வெண்பாமாலை (9th c.); myth's tense, phenomenology's truth (`aaivu/mudhal-oli.md`) |
+| முதல் ஒலி | mudhal oli | the first sound — the babble-space hypothesis and its examination |
+| உறவு மொழிகள் | uravu mozhigal | the kindred languages — Japanese and Korean, Tamil's typological family (சோதனை-006) |
+| இரட்டைக்கிளவி (graded) | — | see Korean's vowel-graded ideophones: iconicity as a *system*, a phase-3 target |
 | இசை | isai | the root under இசைவு: music + fame + assent unified (வி-009) — surfaced by சோதனை-001, sealed by the எ-002 ruling |
 | கூடல் | koodal | union/convergence — classical charge (lovers' union; old Madurai); trialed for *convergence* in சோதனை-001 |
 
