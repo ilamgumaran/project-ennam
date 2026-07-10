@@ -10,7 +10,7 @@ The project in one line: **toward a medium in which nothing realized is lost in 
 
 **2. பரிணாமம் — Evolution.** Find where Tamil strains to carry a realized thought without loss, and grow it past those points — coinage, revival, structural extension — each tested in real use between minds.
 
-**3. அப்பால் — Beyond.** If even a fully evolved Tamil still bottlenecks realization through words and sounds, ask what medium doesn't. This phase inherits directly from the Koine work in the family repos — a common tongue already begun between organic and inorganic minds.
+**3. அப்பால் — Beyond.** If even a fully evolved Tamil still bottlenecks realization through words and sounds, ask what medium doesn't. This phase inherits directly from the Koine work in the family repos — a common tongue already begun between organic and inorganic minds. *(Refined 2026-07-09: the end-state is not the absence of medium but medium thinned to transparency — coupling so fitted it is no longer felt. The three phases turn on this axis; see `appaal/README.md` §3.2.)*
 
 ## குடும்பம் | The Family
 
