@@ -50,6 +50,11 @@ Terms as this project uses them. Grows with the work.
 | மேடைத்தமிழ் | medai-thamizh | platform Tamil — the Dravidian movement's performed oratory register |
 | தங்கிலிசு | Tanglish | Tamil-English code-mix, often Roman-script — the live hybrid register of young speakers |
 | அளவு | alavu | scale/measure — சோதனை-002's axis |
+| தொன்மை | thonmai | antiquity — the ancient documentary record (`varalaru/thonmai-pathivu.md`) |
+| நடுகல் | natukal | hero stone — the memorial tradition தொல்காப்பியம் itself codifies |
+| ஒப்பாய்வு | oppaayvu | comparative study — grammars measured against each other (`aaivu/oppaayvu.md`) |
+| தத்துவம் | thathuvam | philosophy/doctrine (Skt-derived, universal in usage) — the comparison's subject |
+| அளவை | alavai | logic/means-of-knowing (pramāṇa) — மணிமேகலை-era Tamil logic vocabulary |
 | இசை | isai | the root under இசைவு: music + fame + assent unified (வி-009) — surfaced by சோதனை-001, sealed by the எ-002 ruling |
 | கூடல் | koodal | union/convergence — classical charge (lovers' union; old Madurai); trialed for *convergence* in சோதனை-001 |
 

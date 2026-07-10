@@ -47,3 +47,7 @@ Tolkappiyam's account of letters is a chapter of *births*: breath from the navel
 ## வி-011 · கோர்வை இயந்திரத்துக்கும் — beads are machine-native
 
 சோதனை-002 measured it: Tamil matches English information per character in a third fewer words, and its bead-morphology is exactly the structure subword tokenizers learn best. The current machine-era tax on Tamil is encoding economics and corpus skew — contingent, fixable — while the grammar itself is IO-friendly. The same transparency serves both kinds of mind: one structure, two substrates.
+
+## வி-012 · உலகில் ஒன்றே — the interiority-formalization is unique, comparatively confirmed
+
+The comparative study (`oppaayvu.md`) checked வி-001/005/006 against the other great philosophical grammars: Greek formalized ontology, Sanskrit formalized derivation and ritual, Classical Chinese formalized correlative order — **no classical tradition other than Tamil built a formal, rule-governed system for expressing interior states** (திணை / உள்ளுறை / அகம், inside the grammar itself). Ennam's mission domain has exactly one classical ancestor, and it is the language we are standing in. This is the load-bearing reason in the foundation verdict (oppaayvu §7.2).
