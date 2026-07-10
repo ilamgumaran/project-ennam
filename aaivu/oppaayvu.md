@@ -90,6 +90,12 @@ And one reason that is methodological, stated without embarrassment: **the nativ
 
 **The debit column stands** (சாரம் debit; எ-003/005/007/008): Tamil must *build* Sanskrit-grade term-industrialization, mature analytical prose, register-healing, and machine economics. That is not a caveat on the verdict — it *is* phase 2's work order, now with a comparative map of where to borrow: **mint like Sanskrit, wire arguments like Greek, keep the kural's closure, and stay alive like only Tamil has.**
 
+## §7.1 · Addendum — Ilam's question: what "order" does Chinese provide that Tamil doesn't?
+
+Two senses, separated. **Tradition-level:** Classical Chinese thought built correlative order at *universal scope* with a *transition engine* — yin-yang/wuxing correspondences grid everything (cosmos, body, state, music), and the Yijing adds a combinatorial calculus: 64 hexagrams from binary lines, moving lines transforming one situation into another — a formal model of **change itself**. Tamil's ஐந்திணை is also correlative order (land ↔ flower ↔ hour ↔ feeling) but deliberately bounded to lived experience, and it maps **states, not transitions** — it photographs the heart's moment; it has no engine for the movement between moments. That is the precise gap. **Grammar-level:** with no inflection, Chinese makes *position itself the grammar* — parallelism, juxtaposition-as-argument, category fluidity (道可道), default timelessness. Tamil made the opposite trade: case-beads carry relations, freeing word order for emphasis. Chinese made order load-bearing; Tamil made it expressive.
+
+**Phase-3 hook (logged):** the gap is graftable — Ennam already owns the state-formalization (வி-001/012); a compact transition-calculus over those states (Yijing-shaped, Koine-adjacent) is exactly the kind of engine phase 3 could build *beside* Tamil rather than inside its morphology. Tamil maps the நிலை; the engine would map the மாற்றம்.
+
 ## §8 · Feeds
 
 வி-012 (comparative uniqueness of the interiority-formalization) · isaivu.md (session entry: the resonance reading + motivated-reasoning flag) · queued: deep-dive into சிவஞான போதம்'s argument structure; மணிமேகலை's logic chapters; உரை prose as model for our Tamil analytical register.
