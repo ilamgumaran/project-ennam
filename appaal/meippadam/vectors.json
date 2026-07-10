@@ -1,0 +1,247 @@
+{
+  "about": "meippadam v0 — feature vectors (the IO channel)",
+  "atoms": [
+    {
+      "unit": "அ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 0.5,
+      "aperture": 1.0,
+      "length": "kuril",
+      "voiced": true
+    },
+    {
+      "unit": "ஆ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 0.5,
+      "aperture": 1.0,
+      "length": "nedil",
+      "voiced": true
+    },
+    {
+      "unit": "இ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 1.0,
+      "aperture": 0.22,
+      "length": "kuril",
+      "voiced": true
+    },
+    {
+      "unit": "ஈ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 1.0,
+      "aperture": 0.22,
+      "length": "nedil",
+      "voiced": true
+    },
+    {
+      "unit": "உ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 0.0,
+      "aperture": 0.22,
+      "length": "kuril",
+      "voiced": true
+    },
+    {
+      "unit": "ஊ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 0.0,
+      "aperture": 0.22,
+      "length": "nedil",
+      "voiced": true
+    },
+    {
+      "unit": "எ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 0.9,
+      "aperture": 0.55,
+      "length": "kuril",
+      "voiced": true
+    },
+    {
+      "unit": "ஏ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 0.9,
+      "aperture": 0.55,
+      "length": "nedil",
+      "voiced": true
+    },
+    {
+      "unit": "ஒ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 0.1,
+      "aperture": 0.55,
+      "length": "kuril",
+      "voiced": true
+    },
+    {
+      "unit": "ஓ",
+      "kind": "uyir",
+      "place_axis": "open",
+      "front": 0.1,
+      "aperture": 0.55,
+      "length": "nedil",
+      "voiced": true
+    },
+    {
+      "unit": "க்",
+      "kind": "mei",
+      "place": 0.14,
+      "manner": "stop",
+      "inam": "vallinam"
+    },
+    {
+      "unit": "ங்",
+      "kind": "mei",
+      "place": 0.14,
+      "manner": "nasal",
+      "inam": "mellinam"
+    },
+    {
+      "unit": "ச்",
+      "kind": "mei",
+      "place": 0.4,
+      "manner": "stop",
+      "inam": "vallinam"
+    },
+    {
+      "unit": "ஞ்",
+      "kind": "mei",
+      "place": 0.4,
+      "manner": "nasal",
+      "inam": "mellinam"
+    },
+    {
+      "unit": "ட்",
+      "kind": "mei",
+      "place": 0.55,
+      "manner": "stop",
+      "inam": "vallinam"
+    },
+    {
+      "unit": "ண்",
+      "kind": "mei",
+      "place": 0.55,
+      "manner": "nasal",
+      "inam": "mellinam"
+    },
+    {
+      "unit": "த்",
+      "kind": "mei",
+      "place": 0.75,
+      "manner": "stop",
+      "inam": "vallinam"
+    },
+    {
+      "unit": "ந்",
+      "kind": "mei",
+      "place": 0.75,
+      "manner": "nasal",
+      "inam": "mellinam"
+    },
+    {
+      "unit": "ப்",
+      "kind": "mei",
+      "place": 0.96,
+      "manner": "stop",
+      "inam": "vallinam"
+    },
+    {
+      "unit": "ம்",
+      "kind": "mei",
+      "place": 0.96,
+      "manner": "nasal",
+      "inam": "mellinam"
+    },
+    {
+      "unit": "ய்",
+      "kind": "mei",
+      "place": 0.85,
+      "manner": "approx",
+      "inam": "idayinam"
+    },
+    {
+      "unit": "ர்",
+      "kind": "mei",
+      "place": 0.66,
+      "manner": "approx",
+      "inam": "idayinam"
+    },
+    {
+      "unit": "ல்",
+      "kind": "mei",
+      "place": 0.7,
+      "manner": "approx",
+      "inam": "idayinam"
+    },
+    {
+      "unit": "வ்",
+      "kind": "mei",
+      "place": 0.98,
+      "manner": "approx",
+      "inam": "idayinam"
+    },
+    {
+      "unit": "ழ்",
+      "kind": "mei",
+      "place": 0.6,
+      "manner": "approx",
+      "inam": "idayinam"
+    },
+    {
+      "unit": "ள்",
+      "kind": "mei",
+      "place": 0.58,
+      "manner": "approx",
+      "inam": "idayinam"
+    },
+    {
+      "unit": "ற்",
+      "kind": "mei",
+      "place": 0.68,
+      "manner": "stop",
+      "inam": "vallinam"
+    },
+    {
+      "unit": "ன்",
+      "kind": "mei",
+      "place": 0.72,
+      "manner": "nasal",
+      "inam": "mellinam"
+    }
+  ],
+  "demo_states": [
+    {
+      "id": "state_1",
+      "energy": 0.95,
+      "brightness": 0.9,
+      "nearest_uyir": "எ"
+    },
+    {
+      "id": "state_2",
+      "energy": 0.2,
+      "brightness": 0.15,
+      "nearest_uyir": "உ"
+    },
+    {
+      "id": "state_3",
+      "energy": 0.55,
+      "brightness": 0.85,
+      "nearest_uyir": "எ"
+    },
+    {
+      "id": "state_4",
+      "energy": 0.85,
+      "brightness": 0.2,
+      "nearest_uyir": "ஒ"
+    }
+  ]
+}

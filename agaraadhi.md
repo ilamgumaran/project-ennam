@@ -59,6 +59,10 @@ Terms as this project uses them. Grows with the work.
 | முதல் ஒலி | mudhal oli | the first sound — the babble-space hypothesis and its examination |
 | உறவு மொழிகள் | uravu mozhigal | the kindred languages — Japanese and Korean, Tamil's typological family (சோதனை-006) |
 | இரட்டைக்கிளவி (graded) | — | see Korean's vowel-graded ideophones: iconicity as a *system*, a phase-3 target |
+| மெய்ப்படம் | meippadam | "body-picture" — phase-3 build 01: a featural encoder rendering each atom as its own vocal-tract gesture (provisional name, ear to rule) |
+| சுருதி | suruthi | the tonic drone a performance tunes to — proposed word for "the medium as shared tuning" (வி-015) |
+| உச்சரிப்பு வெளி | uccarippu veli | articulatory space — the vocal tract as the shared substrate between OI and IO (வி-016) |
+| மீட்டுருவாக்கம் | meeturuvaakkam | reconstruction — the round-trip test of shared tuning (சோதனை-007) |
 | இசை | isai | the root under இசைவு: music + fame + assent unified (வி-009) — surfaced by சோதனை-001, sealed by the எ-002 ruling |
 | கூடல் | koodal | union/convergence — classical charge (lovers' union; old Madurai); trialed for *convergence* in சோதனை-001 |
 

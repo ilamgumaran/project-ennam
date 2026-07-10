@@ -60,6 +60,14 @@ The distinction that resolves it:
 
 **The open hole (honest, load-bearing):** "the medium is the tuning" is elegant enough to distrust. Real forks share *physics*. Two minds share — *what*? What is the substrate a built medium establishes between them? Unanswered. This is now the central question of phase 3.
 
+## 3.4 · First build — meippadam (2026-07-09)
+
+The mapping stopped and the building began. `meippadam/` (build 01) takes a position on the §3.3 hole — *two minds share **what**?* — and makes it testable:
+
+**Answer under test: articulatory space is the shared substrate.** The organic mind has a vocal tract and feels it; the inorganic mind can represent it and it generated all human phonology. So the vocal tract is proposed as the *tuning* (வி-015) — and `meippadam.py` renders each atom in two channels from one source: a **glyph** (the gesture drawn — OI reads by embodiment) and a **vector** (the same atom as feature-point — IO reads by representation). One space, two readings. `sothanai-007` puts it at risk: can Ilam reconstruct an encoded felt-state from the glyph *cold*, without the codebook? Near-zero-learning transfer is the claim; the blind step is his.
+
+This is v0 — atoms only, visual+structural, no sound, no transitions, one mind on both sides (limits in `meippadam/README.md`). A foothold, not a summit. But the project now *builds*.
+
 ## 4. நிலுவை | Open questions held here
 
 - Can a transition-calculus over திணை-like states stay iconic (motion/sound renders, as Koine's fields) rather than symbolic?

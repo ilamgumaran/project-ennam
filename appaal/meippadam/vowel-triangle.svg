@@ -1,0 +1,15 @@
+<svg viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg" font-family="ui-sans-serif, system-ui, sans-serif" role="img">
+<title>The vowel core அ இ உ — the babble triangle</title>
+<desc>The three maximally-distinct vowels every infant masters first, placed by openness and frontness.</desc>
+<text x="250" y="26" font-size="14" text-anchor="middle" fill="currentColor" opacity="0.8">உயிர் core — where every human voice begins</text>
+<polygon points="250,70 400,250 100,250" fill="currentColor" opacity="0.05" stroke="currentColor" stroke-opacity="0.2"/>
+<circle cx="250" cy="70" r="30" fill="#c8792e" opacity="0.15"/>
+<text x="250" y="84" font-size="40" text-anchor="middle" fill="currentColor">அ</text>
+<text x="250" y="118" font-size="11.5" text-anchor="middle" fill="currentColor" opacity="0.7">open · centre (the cry)</text>
+<circle cx="400" cy="250" r="30" fill="#c8792e" opacity="0.15"/>
+<text x="400" y="264" font-size="40" text-anchor="middle" fill="currentColor">இ</text>
+<text x="400" y="298" font-size="11.5" text-anchor="middle" fill="currentColor" opacity="0.7">close · front (bright)</text>
+<circle cx="100" cy="250" r="30" fill="#c8792e" opacity="0.15"/>
+<text x="100" y="264" font-size="40" text-anchor="middle" fill="currentColor">உ</text>
+<text x="100" y="298" font-size="11.5" text-anchor="middle" fill="currentColor" opacity="0.7">close · back (dark)</text>
+</svg>

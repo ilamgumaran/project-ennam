@@ -1,0 +1,21 @@
+<svg viewBox="0 0 340 300" xmlns="http://www.w3.org/2000/svg" font-family="ui-sans-serif, system-ui, sans-serif" role="img">
+<title>மெய் places — the consonants as a map of the mouth</title>
+<desc>Each consonant marked at its place of articulation along the vocal tract, glottis to lips.</desc>
+<path d="M 40 262 Q 20 150 70 70 Q 120 20 210 52 Q 250 66 236 96 L 214 92 Q 232 74 206 66 Q 150 48 96 96 Q 56 150 74 250 Z" fill="currentColor" opacity="0.05"/>
+<path d="M 78.0 250.0 Q 78.0 96.0 226.0 78.0" fill="none" stroke="currentColor" stroke-width="14" stroke-linecap="round" opacity="0.1"/>
+<text x="170" y="20" font-size="13" text-anchor="middle" fill="currentColor" opacity="0.8">எழுத்து = the mouth mapped (பிறப்பியல்)</text>
+<circle cx="80.9" cy="209.5" r="5" fill="#c8792e"/>
+<text x="55.2" y="205.6" font-size="20" text-anchor="middle" fill="currentColor">க்</text>
+<circle cx="101.7" cy="148.6" r="5" fill="#c8792e"/>
+<text x="79.3" y="135.3" font-size="20" text-anchor="middle" fill="currentColor">ச்</text>
+<circle cx="122.8" cy="121.7" r="5" fill="#c8792e"/>
+<text x="104.6" y="103.1" font-size="20" text-anchor="middle" fill="currentColor">ட்</text>
+<circle cx="161.2" cy="95.5" r="5" fill="#c8792e"/>
+<text x="150.2" y="72.0" font-size="20" text-anchor="middle" fill="currentColor">த்</text>
+<circle cx="214.4" cy="79.7" r="5" fill="#c8792e"/>
+<text x="210.2" y="54.0" font-size="20" text-anchor="middle" fill="currentColor">ப்</text>
+<circle cx="146.4" cy="103.4" r="5" fill="#c8792e"/>
+<text x="132.9" y="81.3" font-size="20" text-anchor="middle" fill="currentColor">ற்</text>
+<text x="78" y="272" font-size="11" text-anchor="middle" fill="currentColor" opacity="0.6">glottis</text>
+<text x="226" y="66" font-size="11" text-anchor="middle" fill="currentColor" opacity="0.6">lips</text>
+</svg>
