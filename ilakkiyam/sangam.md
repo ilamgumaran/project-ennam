@@ -84,7 +84,7 @@ The poem measures the immeasurable by exhausting the three biggest measures ther
 
 ### எண்ணத்திற்கு
 
-Compression without loss — the project's whole aim, demonstrated in four lines in ~30 words. The mechanism is *shared code* (reader must know what kurinji is): lossless compression requires a common codebook. That is a real finding for phase 2: expressive power can live in the **conventions between minds**, not only in the words.
+Compression without loss — one of the project's two communication requirements, demonstrated in four lines in ~30 words. The mechanism is *shared code* (reader must know what kurinji is): lossless compression requires a common codebook. That is a real finding for phase 2: expressive power can live in the **conventions between minds**, not only in the words. The reader's own completion is the second requirement, now tracked as generative resonance (எ-009).
 
 ---
 

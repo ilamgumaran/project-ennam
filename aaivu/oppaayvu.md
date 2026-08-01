@@ -78,7 +78,7 @@ Report, calibrated: the lift does **not** sort by language loyalty. It sorts by 
 
 Is there a "best language for philosophy"? **No** — the affordance profiles are genuinely different instruments; Nyāya could not have been written in Classical Chinese nor the Dao De Jing in Latin.
 
-Is Tamil the best **foundation for Ennam's mission** — a medium for lossless expression of realized thought, evolvable, shared between an organic and an inorganic mind? **Yes — and for reasons that survived the attempt to kill them:**
+Is Tamil the best **foundation for Ennam's mission** — as framed in this study, a medium for lossless expression of realized thought, evolvable, shared between an organic and an inorganic mind? **Yes — and for reasons that survived the attempt to kill them.** The 2026-08-01 revision separates transactional fidelity from generative resonance (`karuthu/001-parimaatramum-isaivum.md`); that broadens the mission without changing this pair-relative foundation verdict:
 
 1. **Only Tamil is a living classical language.** Sanskrit, Greek, Latin: philosophical registers without native streets; Classical Chinese: ancestor of living speech but not itself alive. Evolution (phase 2) needs a delivery channel into daily mouths and a native ear to rule (எ-002 showed the loop working). Tamil alone offers both *and* twenty-three centuries of precedent.
 2. **Only Tamil formalized Ennam's exact problem.** Every tradition formalized *something*; Tamil's porul/திணை/உள்ளுறை apparatus is the sole classical engineering of **interior-state expression** — this project's precise domain, treated as rule-governed craft for two millennia (வி-001, வி-005, வி-006). We are not importing a mission into Tamil; Tamil's grammar tradition already contains it.

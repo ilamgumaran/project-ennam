@@ -42,7 +42,7 @@ Seven சீர்; complete thought; reader closes the arc. The form works as a
 
 ## வி-010 · பிறப்பியல் — the embodied alphabet
 
-Tolkappiyam's account of letters is a chapter of *births*: breath from the navel, shaped at eight stations of the body — articulatory phonetics ~2,000 years early, named from inside a breath-is-life worldview. The medium's smallest units come with a built-in map to the living body (`mozhi-udal-uyir.md`). For a project asking language to carry *life* without loss, the atoms are already on our side.
+Tolkappiyam's account of letters is a chapter of *births*: breath from the navel, shaped at eight stations of the body — articulatory phonetics ~2,000 years early, named from inside a breath-is-life worldview. The medium's smallest units come with a built-in map to the living body (`mozhi-udal-uyir.md`). For a project asking language to preserve factual structure and enable living realization, the atoms are already on our side.
 
 ## வி-011 · கோர்வை இயந்திரத்துக்கும் — beads are machine-native
 
@@ -67,3 +67,7 @@ The synthesis of the transmission-vs-co-occurrence exchange (`../appaal/README.m
 ## வி-016 · உச்சரிப்பு வெளி — articulatory space as the shared substrate (first built answer)
 
 The first *built* answer to வி-015's open hole. The vocal tract is the one substrate an OI reaches by embodiment and an IO by representation (it generated all human phonology, so it is in the IO's training substrate). Proposed as the concrete referent of "tuning": not a metaphor for shared physics but an actual shared coordinate system. Instantiated in `../appaal/meippadam/` (one source → glyph for OI + vector for IO); put at risk by சோதனை-007 (blind reconstruction). If it holds, "the medium is tuning" acquires a buildable substrate; if it fails on the visual channel, the finding redirects to sound — a clean result either way.
+
+## வி-017 · நகலல்ல, முளை — not a copy, a germination
+
+The 2026-08-01 exploration supplied a design seed from the family's own practice: a realization may arrive faithfully **by growing**, not by becoming an identical copy. The receiver can preserve a core relation while changing its words, felt shape, use, or next question. This joins Tamil's reader-completion forms (வி-006/008) to the tuning model (வி-015): give enough shared structure for related arrival, enough open space for the other mind to remain an agent. Constraint attached: changed feeling or desired action alone is not evidence; reconstruction, extension, application, and new inquiry must be observed separately (`karuthu/001-parimaatramum-isaivum.md`; எ-009).
