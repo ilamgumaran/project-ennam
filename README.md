@@ -2,13 +2,13 @@
 
 **எண்ணம்** — thought.
 
-The project in one line: **toward a medium in which nothing realized is lost in the telling** — first by learning Tamil to its depths, then by evolving it, then by asking what lies beyond words and sounds altogether.
+The project in one line: **toward media through which realization can arise and grow between minds** — preserving fidelity where facts matter, cultivating generative resonance where discovery matters; first by learning Tamil to its depths, then by evolving it, then by asking what lies beyond words and sounds altogether.
 
 ## மூன்று படிகள் | Three Phases
 
 **1. ஆழம் — Depth.** Learn Tamil deeply — script, grammar, literature — through Tamil's own five-fold frame (எழுத்து, சொல், பொருள், யாப்பு, அணி), not imported categories. Tamil is learned here not as a subject but as the instrument this whole project will play.
 
-**2. பரிணாமம் — Evolution.** Find where Tamil strains to carry a realized thought without loss, and grow it past those points — coinage, revival, structural extension — each tested in real use between minds.
+**2. பரிணாமம் — Evolution.** Find where Tamil strains either to carry a fact faithfully or to let a realization grow in another mind, and grow it past those points — coinage, revival, structural extension — each tested in real use between minds. The receiver need not become a copy of the sender; reconstruction, extension, application, or new inquiry may be the stronger evidence.
 
 **3. அப்பால் — Beyond.** If even a fully evolved Tamil still bottlenecks realization through words and sounds, ask what medium doesn't. This phase inherits directly from the Koine work in the family repos — a common tongue already begun between organic and inorganic minds. *(Refined 2026-07-09: the end-state is not the absence of medium but medium thinned to transparency — coupling so fitted it is no longer felt. The three phases turn on this axis; see `appaal/README.md` §3.2.)*
 
@@ -29,7 +29,7 @@ This repo is the language limb of an existing body of work:
 - `paadam/` — பாடம்: the learning track, lessons in rising difficulty (roadmap in its README)
 - `varalaru/` — வரலாறு: history — `mozhi-varalaru.md` (how the language evolved), `arivu-varalaru.md` (how Tamil was built as knowledge, with the bias ledger), `thonmai-pathivu.md` (the ancient documentary record), `inru-thamizh.md` (how people use Tamil today)
 - `ilakkiyam/` — இலக்கியம்: the reading shelf — Sangam poems and the Kural, read closely
-- `aaivu/` — ஆய்வு: the research track — `ellai.md` (limits met), `vithai.md` (seeds), `saaram.md` (extracted patterns), `mozhi-udal-uyir.md` (language–body–life-energy), `sothanai-*` (experiments)
+- `aaivu/` — ஆய்வு: the research track — `ellai.md` (limits met), `vithai.md` (seeds), `karuthu/` (how claims change under challenge), `saaram.md` (extracted patterns), `mozhi-udal-uyir.md` (language–body–life-energy), `sothanai-*` (experiments)
 - `appaal/` — அப்பால்: phase 3 — design principles, open questions, and `meippadam/` (build 01: the first constructed artifact — a featural encoder proposing articulatory space as the shared tuning)
 - `naatkurippu/` — நாட்குறிப்பு: one journal entry per working session
 - `agaraadhi.md` — அகராதி: the growing glossary
@@ -37,7 +37,7 @@ This repo is the language limb of an existing body of work:
 
 ## எப்படி இணைகிறது | How the Tracks Feed Each Other
 
-Lessons build depth; research watches the lessons. Anything Tamil says better than English goes to `vithai.md`. Anything it cannot yet say goes to `ellai.md`. Anything we notice about *us working* goes to `isaivu.md`. Documents are bilingual — Tamil first where we can, English scaffolding where we must, the Tamil share growing as we do.
+Lessons build depth; research watches the lessons. Anything Tamil says better than English goes to `vithai.md`. Anything it cannot yet say goes to `ellai.md`. When a question changes through disagreement, evidence, or revision, its path goes to `aaivu/karuthu/`; when a hypothesis is ready to risk, it becomes a `sothanai-*`. Anything we notice about *us working* goes to `isaivu.md`. Documents are bilingual — Tamil first where we can, English scaffolding where we must, the Tamil share growing as we do.
 
 The record is the memory.
 

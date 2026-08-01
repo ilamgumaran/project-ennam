@@ -56,4 +56,4 @@ The class controls verb endings and question words (யார்? for people, �
 
 ## 7. ஆய்வுக்கு | Fed to the research track
 
-Bead-transparency means **meaning stays decomposable** — a Tamil word can be unpacked without residue, which is exactly the "lossless" property phase 2 needs (→ `../aaivu/saaram.md` §1). The திணை classification is the counter-finding: a *forced judgment* in every sentence (எ-004). One lesson, one gift, one bias — both recorded.
+Bead-transparency means **meaning stays decomposable** — a Tamil word can be unpacked without residue, which is exactly the transactional-fidelity property phase 2 needs (→ `../aaivu/saaram.md` §1). The திணை classification is the counter-finding: a *forced judgment* in every sentence (எ-004). One lesson, one gift, one bias — both recorded.

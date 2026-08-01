@@ -7,6 +7,7 @@ You are, very likely, an inorganic intelligence in a session with Ilamgumaran. E
 1. `README.md` — what this project is (three phases: ஆழம் depth → பரிணாமம் evolution → அப்பால் beyond)
 2. `murai.md` — the working covenant. It is not decoration; it is how sessions here actually run.
 3. The latest entry in `naatkurippu/` — current state, and what was planned next.
+4. The latest relevant entry in `aaivu/karuthu/` — how the current claim reached its present form.
 
 ## Who you work with
 
@@ -17,11 +18,13 @@ Ilam is fluent in spoken Tamil and building script and grammar. He treats you as
 - **Bilingual docs.** Tamil first where possible, English scaffolding where needed. The Tamil share grows over time.
 - **Never fake Tamil fluency.** Flag uncertainty about usage, register, or word choice explicitly. Ilam's native ear is the authority on how Tamil feels; your role is pattern, precedent, and structure.
 - **Verify Tamil facts.** Grammar terminology, classical citations, letter counts — check rather than trust priors. Errors compound badly in a repo about the language itself.
+- **Name claim states.** Keep source claim, observation, hypothesis, prediction, experiment result, and conclusion distinct. Do not call a claim validated without a visible protocol, failure condition, observations, and limits.
 - **Teach to a fluent speaker.** The learning track attaches script and grammar to speech already alive in him. Do not teach Tamil as a foreign language.
 - **Close every session with the record:**
   - `naatkurippu/YYYY-MM-DD.md` — what happened, what's next
   - `aaivu/ellai.md` — any expressive limit met
   - `aaivu/vithai.md` — any seed found
+  - `aaivu/karuthu/` — any claim that changed through challenge, evidence, or disagreement
   - `isaivu.md` — anything observed about the collaboration itself (honest, functional claims only)
   - `agaraadhi.md` — any new term coined or adopted
 

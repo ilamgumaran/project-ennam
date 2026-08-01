@@ -22,6 +22,8 @@ Terms as this project uses them. Grows with the work.
 | வரலாறு | varalaru | history — the `varalaru/` shelf: language evolution + knowledge/bias audit |
 | இலக்கியம் | ilakkiyam | literature — the reading shelf |
 | சாரம் | saaram | essence — extracted patterns (`aaivu/saaram.md`) |
+| கருத்துப் பாதை | karuthup paathai | idea-evolution record — a claim's question → challenge → evidence → revision path (`aaivu/karuthu/`); provisional working label, ear to rule |
+| பரிமாற்றம் | parimaatram | transmission — factual or instructional communication judged by bounded fidelity; kept distinct from generative resonance (எ-009) |
 
 ## கற்றலில் வந்த சொற்கள் | Terms the work brought in (session 2)
 

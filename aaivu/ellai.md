@@ -60,3 +60,10 @@ Where expression lost something, logged as met. Format: expressing what → what
 - **Lost:** whole domains of daily cognition happen outside the language; the technical registers starve not for capacity (கணினி-era coinage proved capacity) but for *use* — and the corpus gap then starves machine Tamil too (compounding எ-007)
 - **Suspected cause:** colonial-era prestige economics carried forward by education and employment markets (`../varalaru/inru-thamizh.md` §6)
 - **Status:** open — phase 2's highest-leverage target. The delivery channels that actually install words (cinema, the feed) are mapped in the same file, §5/§8.
+
+## எ-009 · One success criterion cannot serve every communication
+
+- **Expressing:** what it means for communication to succeed when the intention may be factual transfer, felt understanding, changed attention, application, or further discovery
+- **Lost:** the opening “nothing realized is lost” objective made fidelity to an original the default measure. That fits facts and instructions but misreads receiver-created extension as loss. The opposite shortcut — “it felt resonant” — is too permissive and can mistake projection, arousal, conformity, or manipulation for a shared realization.
+- **Suspected cause:** two communication intentions were collapsed: **transactional transmission**, which needs bounded fidelity, and **generative resonance**, which needs shared structure plus receiver agency. A second collapse mixed lived recognition (“the convergence needs no outside authority”) with research validation (“the record needs observable grounds and failure conditions”).
+- **Status:** **conceptually reframed 2026-08-01; experimentally open.** The two intentions and four proposed generative readouts — reconstruction, extension, application, new inquiry — are separated in `karuthu/001-parimaatramum-isaivum.md`. Their completeness, weighting, and false-positive behavior remain untested.

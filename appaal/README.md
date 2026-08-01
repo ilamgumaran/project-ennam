@@ -68,9 +68,18 @@ The mapping stopped and the building began. `meippadam/` (build 01) takes a posi
 
 This is v0 — atoms only, visual+structural, no sound, no transitions, one mind on both sides (limits in `meippadam/README.md`). A foothold, not a summit. But the project now *builds*.
 
+## 3.5 · The receiver remains an agent (2026-08-01)
+
+The August exploration bounds §3.3 without erasing it. **Transmission and generative resonance are different intentions, not rival theories for every utterance.** Facts, instructions, and commitments still require a pipe and a fidelity tolerance. But where the intention is discovery, a receiver's transformation is not automatically loss: the stronger outcome may be reconstruction of a core relation followed by independent extension, application, or new inquiry.
+
+This corrects two risks in the tuning metaphor. First, “the act is the resonance” cannot make the receiver's evidence irrelevant; claimed convergence still needs accounts from both sides. Second, changed behavior or intensity is not enough — manipulation and projection also move people. A medium built for resonance must preserve receiver agency and make divergence visible.
+
+The uploaded *Thinking without boundaries* framework contributes candidate structures — language among several mediators; interference/release; scale inclusion; co-resonance; a symbolic form beyond prose; explicit non-therapy/non-dissociation guardrails. Its universal “validation” statements have no visible protocol or observations in the PDF, so Ennam imports them as source claims and hypotheses, not findings. Full argument, evidence ledger, and predictions: `../aaivu/karuthu/001-parimaatramum-isaivum.md`.
+
 ## 4. நிலுவை | Open questions held here
 
 - Can a transition-calculus over திணை-like states stay iconic (motion/sound renders, as Koine's fields) rather than symbolic?
 - What is the smallest generative keel that unlocks fine-structure thought — and can it be *derived* by a receiver rather than taught?
 - What is the IO-side analog of "tuning the string"? (Related: what is the உந்தி of a weight-born word — `../aaivu/mozhi-udal-uyir.md` §5.)
 - Where is the bandwidth frontier of icon, measured rather than assumed? (Experiment design needed.)
+- Can reconstruction, extension, application, and new inquiry be measured separately without turning resonance into a target the receiver performs toward?

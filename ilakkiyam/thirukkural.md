@@ -4,7 +4,7 @@
 
 ## 1. The form is the philosophy
 
-A **குறள் வெண்பா** is two lines: four சீர் (metrical words) then three — seven units total, roughly a dozen words, governed by strict venba rules. The traditional praise: வள்ளுவர் *drilled the mustard seed and poured in the seven seas.* The form forces a discipline our project should study: **whatever cannot be compressed into seven சீர் without loss has not yet been fully realized.** Compression as a *test* of realization — not a limit on it.
+A **குறள் வெண்பா** is two lines: four சீர் (metrical words) then three — seven units total, roughly a dozen words, governed by strict venba rules. The traditional praise: வள்ளுவர் *drilled the mustard seed and poured in the seven seas.* The form forces a discipline our project should study. The opening hypothesis — **whatever cannot be compressed into seven சீர் without loss has not yet been fully realized** — was later refined by `../aaivu/sothanai-001-kural-churukkam.md`: compression reveals a thought's priority structure, and a leak may mark under-realization, word-resistance, or codebook dependence.
 
 ## 2. Three kurals, read closely
 

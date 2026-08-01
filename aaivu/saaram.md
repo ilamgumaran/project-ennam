@@ -1,6 +1,6 @@
 # சாரம் | Essence: Patterns, Beauty, Alignment
 
-What this session's research distilled — the structural essence of Tamil, each pattern read against our முறை and the project's aim (lossless expression of realized thought). Alignments **and** tensions both; the extraction stays honest or it is worthless.
+What this session's research distilled — the structural essence of Tamil, each pattern read against our முறை and the project's then-stated aim (lossless expression of realized thought). Alignments **and** tensions both; the extraction stays honest or it is worthless. **2026-08-01 calibration:** lossless expression remains a transactional requirement, while generative resonance is now evaluated by reconstruction, extension, application, and inquiry (`karuthu/001-parimaatramum-isaivum.md`; எ-009).
 
 ## 1. கோர்வை — Compositional transparency
 
