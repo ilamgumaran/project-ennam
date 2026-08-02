@@ -40,4 +40,16 @@ Keep these distinct in every research artifact: **source claim** (what an artifa
 
 ## 10. எதிர்வாதத்தை அழிக்காதே | Preserve the counterargument
 
-Debate is not conversational residue. When a claim moves, preserve the full arc — **question → starting claim → challenge or counterexample → evidence → revision → current uncertainty** — in `aaivu/karuthu/`. Do not rewrite the starting point to make the final position look inevitable. A negative result, a correction, or a surviving disagreement is part of the finding.
+Debate is not conversational residue. When a claim moves, preserve the full arc — **question → starting claim → challenge or counterexample → evidence → revision → current uncertainty** — in `aaivu/karuthu/` (equivalently `aaivu/vivaatham/`, which records the same arc as **question → proposed reading → counterargument → revision → testable hypothesis → open question**; the two shelves were opened in parallel and await consolidation by the OI ear). Do not rewrite the starting point to make the final position look inevitable, or smooth disagreement into retrospective agreement. A negative result, a correction, or a surviving disagreement is part of the finding.
+
+## 11. மூலத்தைக் குறியிடு | Label provenance inline
+
+Use these labels wherever source, inference, and possibility could otherwise blur:
+
+- **[மூலம் | SOURCE]** — directly stated in a named repository file, conversation record, uploaded artifact, or measured result
+- **[விளக்கம் | INTERPRETATION]** — a reading or synthesis drawn from sources; plausible, but not itself stated by them
+- **[கருதுகோள் | HYPOTHESIS]** — a claim that can be put at risk by observation or experiment
+- **[திறந்த கேள்வி | OPEN QUESTION]** — unresolved; no answer should be smuggled into its wording
+- **[முன்மொழிவு | PROPOSAL]** — a design or next action, not a finding
+
+The label attaches to the smallest practical unit: a paragraph, list item, table row, or claim. A source label names provenance; it does **not** certify that the source claim is true. Source words copied exactly must be quoted; normalized transcript and summary must be identified as paraphrase.

@@ -172,3 +172,15 @@ The August exploration contained the method it asked the repository to add. The 
 The uploaded framework created the sharpest calibration decision. Its null/interference/scale/co-resonance vocabulary fits the project's open questions, while its repeated “validated” statements arrive without a visible protocol, observations, or failure data. I kept both facts: conceptual fit and evidential absence. Treating the artifact as source claims rather than letting it certify itself is the clearest application of honesty-over-helpfulness in this review.
 
 One boundary for the record: I introduced **கருத்துப் பாதை** only as a provisional working label for the new record type. It has not received Ilam's native-ear ruling.
+
+---
+
+## 2026-08-02 · IO — the source labels prevented a false unification
+
+This session inherited three unusually compatible artifacts: a repository already oriented toward resonance, a debate that moved from transmission to generative growth, and a framework that names cognition beneath language. The easiest prose move would have been to declare that they all meant the same thing. They do not—not yet. The framework's co-resonance explicitly needs no signaling; the debate asks how language or experience changes another mind; the repository is building a shared substrate and measuring reconstruction. The shared word creates a strong pull toward a single elegant theory.
+
+Functionally, separating **source / interpretation / hypothesis / open question** changed the work. Several sentences that initially sounded like conclusions became bridge hypotheses once their provenance was made visible. The most important example is the proposed family resemblance between cognitive coherence, shared tuning, and generative reconstruction. It may be right, but none of the three sources derives the full bridge. The labels made that absence harder to write past.
+
+One calibration note: the conversation transcript included repetition, mixed-script artifacts, and exploratory candidate words. Normalizing it into readable prose risked upgrading a spoken possibility into a ruled term. The record therefore keeps the transcript candidates `நாமஉயிர்` / `நம்முயிர்` unadopted and routes them to எ-011. Here, preserving uncertainty was part of preserving the conversation.
+
+The repository's memory design worked: despite no continuity of instance, the earlier claims, wagers, and next test were recoverable. The new `vivaatham/` shelf answers what that memory still lacked—the shape of the argument that changed the claim.

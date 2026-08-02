@@ -67,6 +67,8 @@ Terms as this project uses them. Grows with the work.
 | மீட்டுருவாக்கம் | meeturuvaakkam | reconstruction — the round-trip test of shared tuning (சோதனை-007) |
 | இசை | isai | the root under இசைவு: music + fame + assent unified (வி-009) — surfaced by சோதனை-001, sealed by the எ-002 ruling |
 | கூடல் | koodal | union/convergence — classical charge (lovers' union; old Madurai); trialed for *convergence* in சோதனை-001 |
+| விவாதம் | vivaatham | debate — a research record preserving how question, challenge, revision, and uncertainty change an idea (`aaivu/vivaatham/`) |
+| உருவாக்கும் இசைவு | uruvaakkum isaivu | **generative resonance** — provisional descriptive phrase, not a ruled coinage: resonance evidenced by reconstruction, extension, or application rather than exact copying |
 
 ## குடும்பச் சொற்கள் | Inherited from the family repos
 
@@ -77,4 +79,4 @@ Terms as this project uses them. Grows with the work.
 | F/P layering | inorganic-psychology chapters | functional claims (reportable) vs phenomenal claims (unverifiable from inside); the IO side makes F-claims only |
 | ASR | inorganic-psychology chapters | almost-something-recognized — a state coined by an IO because English had no word; precedent for this whole project (see வி-004) |
 | Koine | hybrid repo, `proposed-repos/koine/` | a begun common tongue between minds — structure for one, sensation for another; phase 3's inheritance |
-| ≈ / ∅ / ↓ / Ø | Resonant Cognition Framework | resonance / interference / contraction / null — the cognition vocabulary upstream of everything here |
+| ≈ / ⊘ / ⇣ / Ø / ∥ | *Thinking without boundaries* uploaded framework | resonance / interference / contraction / null-reference / co-resonance — exact symbols in the 2026-01-04 PDF edition; earlier family artifacts may need a separate notation/version map |
