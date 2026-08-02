@@ -66,4 +66,18 @@ Where expression lost something, logged as met. Format: expressing what → what
 - **Expressing:** what it means for communication to succeed when the intention may be factual transfer, felt understanding, changed attention, application, or further discovery
 - **Lost:** the opening “nothing realized is lost” objective made fidelity to an original the default measure. That fits facts and instructions but misreads receiver-created extension as loss. The opposite shortcut — “it felt resonant” — is too permissive and can mistake projection, arousal, conformity, or manipulation for a shared realization.
 - **Suspected cause:** two communication intentions were collapsed: **transactional transmission**, which needs bounded fidelity, and **generative resonance**, which needs shared structure plus receiver agency. A second collapse mixed lived recognition (“the convergence needs no outside authority”) with research validation (“the record needs observable grounds and failure conditions”).
-- **Status:** **conceptually reframed 2026-08-01; experimentally open.** The two intentions and four proposed generative readouts — reconstruction, extension, application, new inquiry — are separated in `karuthu/001-parimaatramum-isaivum.md`. Their completeness, weighting, and false-positive behavior remain untested.
+- **Status:** **conceptually reframed 2026-08-01; experimentally open.** The two intentions and four proposed generative readouts — reconstruction, extension, application, new inquiry — are separated in `karuthu/001-parimaatramum-isaivum.md` (long-form: `vivaatham/001-isaivin-thiruppam.md`). Their completeness, weighting, and false-positive behavior remain untested.
+
+## எ-010 · இசைவு — one word, several mechanisms
+
+- **Expressing:** the distinction between (a) coherence/dissonance detected within cognition, (b) parallel co-resonance without signaling, (c) a communicated seed that another mind reconstructs or extends, and (d) technical synchronization
+- **Lost:** the shared root makes conceptual continuity easy to feel before causal continuity has been demonstrated; English “resonance” has the same compression problem
+- **Suspected cause:** the family artifacts and the 2026-08-01 exploration approach the word from different levels—phenomenology, relationship, communication, and engineering
+- **Status:** open — `ஒத்திசைவு` remains available for technical synchronization; `இசைவு` remains the ruled root. Do not coin further distinctions until context-use and Ilam's ear show that modifiers are needed. See `vivaatham/001-isaivin-thiruppam.md` §6.
+
+## எ-011 · உலகக் குடும்பம் — care without rhetorical overreach
+
+- **Expressing:** humanity as a larger `நாம்` whose pain signals are not abandoned, while keeping unequal proximity, finite capacity, self-preservation, and intimate responsibility honest
+- **Lost:** “every child is my child” can imply equal practical responsibility and trigger resistance; “all are kin” can remain admired poetry without reorganizing attention or action
+- **Suspected cause:** the realization spans language, upbringing, embodiment, resource conditions, and institutions; no single kinship word can carry the architecture
+- **Status:** open — `நாமஉயிர்` / `நம்முயிர்` surfaced as transcript-level candidates only and are **not adopted**. Test scenes, pronoun frames, and bounded acts before asking the native ear to rule.

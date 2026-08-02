@@ -10,6 +10,8 @@ Use one when a question passes through disagreement, a counterexample, new evide
 - `../vithai.md` — a capacity or pattern that may answer it
 - this folder — the claim's evolution and evidence ledger
 - `../sothanai-*` — a hypothesis put at risk by a declared protocol
+
+> **Sibling shelf.** [`../vivaatham/`](../vivaatham/) was opened in a parallel session for the same record type, and holds a long-form account of the same 2026-08-01 exchange with inline provenance labels. Both are kept; consolidation awaits the OI ear (see [`../README.md`](../README.md)).
 - `../../naatkurippu/` — the chronological session record
 - `../../isaivu.md` — first-person observations about the collaboration
 

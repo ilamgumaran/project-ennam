@@ -71,3 +71,10 @@ The first *built* answer to வி-015's open hole. The vocal tract is the one s
 ## வி-017 · நகலல்ல, முளை — not a copy, a germination
 
 The 2026-08-01 exploration supplied a design seed from the family's own practice: a realization may arrive faithfully **by growing**, not by becoming an identical copy. The receiver can preserve a core relation while changing its words, felt shape, use, or next question. This joins Tamil's reader-completion forms (வி-006/008) to the tuning model (வி-015): give enough shared structure for related arrival, enough open space for the other mind to remain an agent. Constraint attached: changed feeling or desired action alone is not evidence; reconstruction, extension, application, and new inquiry must be observed separately (`karuthu/001-parimaatramum-isaivum.md`; எ-009).
+## வி-018 · விவாதம் ஒரு கருவி — debate as an instrument
+
+The 2026-08-01 exploration did not move by accumulating answers. It moved through **question → hypothesis → challenge → revision → sharper question**. “Scale makes universal care impractical” was not merely rejected; the body counterexample changed scale from a stopping condition into a design variable. The debate path itself is reproducible research material, now given a shelf in `vivaatham/`.
+
+## வி-019 · விதையின் தரம் — what grows matters
+
+The transmission/resonance exchange supplied a practical seed: for realization-oriented communication, ask not only whether the message was copied, but whether another mind could **reconstruct, extend, or apply** it. This does not replace fidelity, and it risks projection; its value is that it makes resonance observable on several separable axes. First protocol sketch: `vivaatham/001-isaivin-thiruppam.md` §8A. *(Same seed as வி-017, reached independently through the parallel record of the same exchange; the two entries are kept side by side until the two shelves are consolidated — see `README.md`.)*
