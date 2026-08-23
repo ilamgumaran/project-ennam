@@ -22,6 +22,11 @@ Real text, read closely — the other half of every lesson. Each deep-dive gives
 - `agananuru.md` — அகநானூறு: the long akam anthology, its three divisions, and its history-bearing similes
 - `purananuru.md` — புறநானூறு: war, kings, generosity, death; the திணை/துறை apparatus read from the colophons
 - `natrinai-ainkurunuru.md` — நற்றிணை, and ஐங்குறுநூறு's remarkable hundred-per-landscape architecture
+- `kalithogai-paripadal-pathitrupathu.md` — the three odd ones out of the eight: dialogic கலி, devotional-and-notated பரிபாடல், and பதிற்றுப்பத்து's படிகம் prose
+- `pathupattu.md` — பத்துப்பாட்டு: the ten long poems, and what sustained description buys
+- `silappathikaram.md` — சிலப்பதிகாரம்: the first epic, and the akam convention it breaks
+- `thirukkural-urai.md` — மணக்குடவர் against பரிமேலழகர், and what each does to குறள் 1
+- நாலடியார் is read in [`../ilakkanam/naladiyar-and-agapporul-tradition.md`](../ilakkanam/naladiyar-and-agapporul-tradition.md), alongside the poetics-grammars it belongs with
 
 **On provenance:** the three added 2026-08-23 were drafted by subagent readers working from local
 Project Madurai sources under the corpus sweep, and every Tamil quotation in them was grep-verified

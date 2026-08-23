@@ -16,6 +16,7 @@ holds **what the text actually says**, so both can rest on something checkable.
 | [`tholkappiyam-seyyuliyal.md`](tholkappiyam-seyyuliyal.md) | செய்யுளியல் — prosody | **the எதுகை question** (நூ. 84–96 + an 8-corpus measurement); தளை vs தொடை; what `அடிதொறும்` means |
 | [`tholkappiyam-meippattiyal.md`](tholkappiyam-meippattiyal.md) | மெய்ப்பாட்டியல் — feeling on the body | the eight மெய்ப்பாடு and their causes; the rasa question left open; **நூற்பா 27** |
 | [`tholkappiyam-thinai.md`](tholkappiyam-thinai.md) | அகத்திணையியல் · புறத்திணையியல் | the **seven** akam திணை; முதல்/கரு/உரிப்பொருள்; the seven புறத்திணை |
+| [`naladiyar-and-agapporul-tradition.md`](naladiyar-and-agapporul-tradition.md) | நாலடியார் · இறையனார் அகப்பொருள் · புறப்பொருள் வெண்பாமாலை · நன்னூல் | the tradition legislating poetics for a millennium after Tolkāppiyam; the three-Sangam legend at its source |
 
 ## நிலை | Standing caution
 
