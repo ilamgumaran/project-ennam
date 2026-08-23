@@ -108,7 +108,23 @@ That this is a *within-line* reading is now corroborated rather than assumed: ac
 alliterates foot-to-foot inside a line — which is also what நூ. 88's `அடிதொறும்` must mean.
 
 **ஈற்றுச்சீர்.** A வெண்பா must end on one of four patterns, named by exemplar words —
-நாள் · மலர் · காசு · பிறப்பு. **உலகு** scans as நிரை + உ, the **பிறப்பு** pattern. (Verify — §11.)
+நாள் · மலர் · காசு · பிறப்பு — and **உலகு** is usually scanned as நிரை + உ, the **பிறப்பு** pattern.
+
+> **Corrected 2026-08-23.** This entry gave that as near-fact with a "verify" note. Two things came
+> back and both cut against it.
+>
+> **First: those four names are not Tolkāppiyam's.** Grep of the whole மூலம் (`pmuni0100`):
+> **காசு — 0 hits. ஈற்றுச்சீர் — 0 hits.** Nor are the சீர் names every Tamil schoolchild learns —
+> **தேமா, புளிமா, கூவிளம், கருவிளம்: 0 hits each.** Nor **வஞ்சித்தளை**; Tolkāppiyam names only
+> கலித்தளை and வெண்தளை. **School Tamil prosody is a later pedagogical layer** — யாப்பருங்கலம் and
+> after — laid over a more austere engineering document. The four ending-names are real and standard
+> terminology; they are simply **not the founding grammar's**, and this entry implied they were.
+>
+> **Second: the scansion of உலகு is genuinely open.** It turns on செய்யுளியல் நூற்பா 4's exception
+> clause, *குறில் இணை உகரம் அல் வழியான*, which is ambiguous and decides whether உலகு is one அசை
+> (நிரைபு) or two (நிரை + நேர்). It is **not** settled here.
+>
+> [`../../ilakkanam/tholkappiyam-seyyuliyal.md`](../../ilakkanam/tholkappiyam-seyyuliyal.md).
 
 > **Computed, not heard.** All of the above is scansion, not hearing. The inorganic side builds
 > this blind. Ilam's ear rules on whether the எதுகை actually *lands* one syllable in the way this
@@ -198,5 +214,9 @@ took the அ out. Do it with ச, ட, த, ப. Then take the dots off and hear
   - Does the எதுகை on அ**க**ர / ப**க**வன் actually *land* for a native ear — is it heard as rhyme,
     or is it structural and felt only on analysis?
   - Is அகர / ஆதி heard as இனமோனை, or is that a scansion artefact?
-  - **உலகு** as the **பிறப்பு** ஈற்றுச்சீர் pattern: computed, unverified against a யாப்பு
-    authority. This is the single most likely error in the entry.
+  - **உலகு** as the **பிறப்பு** ஈற்றுச்சீர் pattern — flagged here on 2026-08-22 as *"the single
+    most likely error in the entry."* **It was.** Not because the scansion is wrong (it may well be
+    right) but because the entry attributed later terminology to Tolkāppiyam and called a genuinely
+    open question merely unverified. See the correction in §7. The scansion itself is now an
+    **[திறந்த கேள்வி | OPEN QUESTION]** turning on நூற்பா 4's exception clause, and still wants
+    your ear and a யாப்பு authority.
