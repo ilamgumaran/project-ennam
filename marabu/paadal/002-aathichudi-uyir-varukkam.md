@@ -128,6 +128,10 @@ one of the language's most productive habits, and it is doing half the work in t
 
 **ஃ cannot start a word — so line 13 hides it inside one.** ஆய்தம் (ஃ) occurs only in one
 environment in Tamil: after a short vowel and before a hard consonant — அஃது, எஃகு, **அஃகம்**.
+This is not our observation; it is law, and the law is quotable — தொல்காப்பியம், எழுத்ததிகாரம்,
+மொழிமரபு நூற்பா 5: *குறியதன் முன்னர் ஆய்தப் புள்ளி / உயிரொடு புணர்ந்த வல் ஆறன் மிசைத்தே.*
+Nor is ஃ alone in being barred from the front of a word — நூற்பா 26–32 bar nine consonants as well,
+and **entry 004** shows the whole உயிர்மெய் section of this same poem bending around them.
 It can never begin a word. So the alphabet-mnemonic that needs a line for ஃ *cannot* follow its own
 rule of starting on the letter. Auvaiyar's solution is to pick a word with ஃ inside it and let the
 pattern bend. **The poem obeys the phonotactics rather than the mnemonic.** That is a grammar lesson
@@ -211,6 +215,9 @@ Then keep going: the next section (உயிர்மெய் வருக்�
 
 - **[மூலம் | SOURCE]** All thirteen lines and the invocation are quoted exactly from Project Madurai
   `pmuni0002`. The 109-line total is counted from that e-text.
+- **[மூலம் | SOURCE]** *Closed 2026-08-23.* The ஃ distribution claim in §6 was asserted without a
+  source when this entry was written. It is now cited to தொல்காப்பியம் மொழிமரபு நூற்பா 5, quoted
+  from `pmuni0100`. See [entry 004](004-aathichudi-uyirmei-nga.md), which found it.
 - **[மூலம் | SOURCE]** The e-text prints the poet's name as **ஒளவையார்** — an older typographic
   convention for ஔ, not a different name.
 - **[திறந்த கேள்வி | OPEN QUESTION]** **The date, and which Auvaiyar.** That the ஆத்திசூடி Auvaiyar
