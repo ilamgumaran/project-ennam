@@ -118,3 +118,51 @@ is being claimed here as a *precondition on the receiver*, not an outcome.
 of resonance-flattery this repo is meant to guard against. What is **[மூலம்]** is only this: the
 chapter's final நூற்பா makes the receiver's faculty a precondition of relish, and names eye and ear
 as the channels. Full reading: `../ilakkanam/tholkappiyam-meippattiyal.md` §8.
+
+## வி-022 · இரு பா — a two-thousand-year-old classification predicted a measurement
+
+தொல்காப்பியம் does not treat its four பா as four independent things. நூற்பா 103–104 collapse them
+into **two families**:
+
+> ஆயிரு பாவினுள் அடங்கும் என்ப. (103)
+> ஆசிரிய நடைத்தே வஞ்சி ஏனை
+> **வெண்பா நடைத்தே கலி** என மொழிப. (104)
+
+*They are contained within those two பா. வஞ்சி is of **ஆசிரியம்'s** gait; the other, கலி, is of
+**வெண்பா's** gait.* The organising word is **நடை** — gait, walk. Not structure, not line count:
+how the thing *moves*.
+
+**The prediction.** If கலி genuinely walks like வெண்பா rather than like ஆசிரியம், then கலித்தொகை
+should pattern with the வெண்பா corpora on a sound-measure, not with the akaval corpora — even though
+கலித்தொகை is a *Sangam anthology* and sits with the akaval works in every anthology-level
+description, including this repo's own `../ilakkiyam/sangam.md`.
+
+**The measurement** (`../ilakkanam/tholkappiyam-seyyuliyal.md` §8; எதுகை between consecutive அடி,
+against a shuffled-partner chance baseline):
+
+| corpus | பா | ÷ chance |
+|---|---|---|
+| திருக்குறள் | குறள்வெண்பா | 9.7 × |
+| **கலித்தொகை** | **கலிப்பா** | **8.4 ×** |
+| நாலடியார் | வெண்பா | 7.8 × |
+| ஐங்குறுநூறு · குறுந்தொகை · நற்றிணை · பதிற்றுப்பத்து | ஆசிரியப்பா | 2.6 – 4.8 × |
+
+**கலித்தொகை lands inside the வெண்பா band and nowhere near the akaval band.** The classification
+holds on a measure its author could not have taken.
+
+**Why this is a seed and not just a curiosity.** The repo's phase-2 question is whether Tamil's
+inherited structures are *engineering* or *convention*. வி-005 argued that Tolkāppiyam treats
+expression as engineering; this is the first case where one of its classifications has been **put at
+risk against a corpus and survived**. A taxonomy that predicts out-of-sample is doing more than
+naming.
+
+**[முன்மொழிவு | PROPOSAL] சோதனை-008.** Pre-register properly and test the two-family claim on
+*independent* measures — not the எதுகை figure that suggested it. Candidates: distribution of அசை
+types per சீர்; அடி-length variance; the ratio of நேர்-initial to நிரை-initial feet. Declared failure
+condition: **if கலித்தொகை clusters with the akaval corpora on two of three independent measures, the
+two-family reading is not doing the work claimed here.** வஞ்சி should be tested on the other side of
+the same question, and பரிபாடல் (mixed, 6.3×) is the natural control.
+
+**[எல்லை | LIMIT]** One measure, one anthology per class, and rates that are lower bounds
+(printed word ≠ சீர்). This is **suggestive, not established** — the honest status is *one
+successful out-of-sample prediction*, which is exactly one more than most classifications get.
