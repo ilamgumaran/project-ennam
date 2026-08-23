@@ -80,13 +80,19 @@ The order is the tradition's own, not a difficulty curve invented here. Tamil ch
 on alphabet-verse, moved to aphorism, and only then to the Sangam. We keep that, and add the depth
 back in for the adult reading over the child's shoulder.
 
+**And the ladder turned out to be already built.** Entry 005 measured it: the four ஔவையார் books in
+one source file form a graded series — ஆத்திசூடி at a mean **2.4 words** per line, கொன்றைவேந்தன் at
+**3.9**, then மூதுரை and நல்வழி in full four-line வெண்பா. Same alphabet spine, same voice, rising
+load, then the Kural, then the Sangam. This sequence is a reconstruction of one that was standing
+before us.
+
 | # | பதிவு | Text | Why here | வயது · age | நிலை |
 |---|---|---|---|---|---|
 | 001 | [குறள் 1](paadal/001-kural-001-agara-mudhala.md) | திருக்குறள் 1 — அகர முதல | The first letter as the model of first things. The doorway to the script. | 4+ / all | **எழுதப்பட்டது** |
 | 002 | [ஆத்திசூடி · உயிர்](paadal/002-aathichudi-uyir-varukkam.md) | ஆத்திசூடி 1–13 | The actual first text of Tamil childhood — the whole vowel set, one line each. | 4–8 | **எழுதப்பட்டது** |
 | 003 | [குறுந்தொகை 2](paadal/003-kurunthogai-002-kongu-ther.md) | குறுந்தொகை 2 — கொங்குதேர் | First Sangam poem. A boy asks a bee for the truth. | 7+ (child layer) / adult | **எழுதப்பட்டது** |
 | 004 | [ஆத்திசூடி · உயிர்மெய்](paadal/004-aathichudi-uyirmei-nga.md) | ஆத்திசூடி 14–31 | **ஙப் போல் வளை** — nine consonants that cannot begin a Tamil word, and a poem that bends around all nine | 5–9 | **எழுதப்பட்டது** |
-| 005 | கொன்றைவேந்தன் | ஔவையார் | The second rung of the child's ladder — two-word lines, alphabet again | 5–9 | planned |
+| 005 | [கொன்றைவேந்தன் · the ladder](paadal/005-konraiventhan-the-ladder.md) | கொன்றைவேந்தன் | The second rung — and the discovery that the ladder was already built | 6–10 | **எழுதப்பட்டது** |
 | 006 | குறுந்தொகை 40 | செம்புலப் பெயனீர் | Already read in `../ilakkiyam/sangam.md` §2 — re-cut for the child layer | 8+ | planned |
 | 007 | புறநானூறு 192 | யாதும் ஊரே | The two most quoted words in Tamil, and the hard argument under them | 10+ | planned |
 | 008 | திருக்குறள் 391 | கற்க கசடறக் | Read in `../ilakkiyam/thirukkural.md` §2 — re-cut with yāppu and child layer | 8+ | planned |
