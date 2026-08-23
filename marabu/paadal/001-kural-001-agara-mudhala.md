@@ -167,10 +167,15 @@ took the அ out. Do it with ச, ட, த, ப. Then take the dots off and hear
   the collation is unfinished work.
 - **[மூலம் | SOURCE]** ஆத்திசூடி's 109 lines and the Kural's 1,330 couplets are counted from the
   source e-texts, not from memory.
-- **[விளக்கம் | INTERPRETATION]** §6's central reading — that அ is *inside* every consonant and
-  that this makes the analogy ontological rather than merely ordinal — is our synthesis. It follows
-  directly from how the script works, but we have **not** checked whether பரிமேலழகர் or மணக்குடவர்
-  read the line this way. `pmuni0450_01` (Parimēlaḻakar) and `pmuni0650` (Maṇakkuṭavar) are on
+- **[மூலம் | SOURCE]** *Upgraded 2026-08-23 — this was our interpretation and is now the
+  tradition's own.* §6's central reading — that அ is *inside* every consonant, making the analogy
+  ontological rather than merely ordinal — is stated outright in **தொல்காப்பியம், எழுத்ததிகாரம்,
+  நூன்மரபு நூற்பா 17**: *புள்ளி இல்லா எல்லா மெய்யும் / உரு உரு ஆகி **அகரமொடு உயிர்த்தலும்*** —
+  every மெய் without the dot **comes alive** (உயிர்த்தல்) with அகரம். The grammar puts it in the
+  vocabulary of *life*, not of pronunciation. See
+  [`../../ilakkanam/tholkappiyam-ezhuthathikaram.md`](../../ilakkanam/tholkappiyam-ezhuthathikaram.md) §1.
+  Still outstanding: whether பரிமேலழகர் or மணக்குடவர்
+  read *this couplet* that way. `pmuni0450_01` (Parimēlaḻakar) and `pmuni0650` (Maṇakkuṭavar) are on
   Project Madurai and this should be checked before the reading is repeated as traditional.
   See `../../varalaru/arivu-varalaru.md` §5 on exactly this bias.
 - **[விளக்கம் | INTERPRETATION]** "No sect is named" is a standard observation, but the claim that

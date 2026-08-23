@@ -220,9 +220,13 @@ how the rule got written down in the first place.
   **ஞாயம்பட** would be legal. Same shape of problem as line 30, and the two together suggest the
   acrostic can be used as a systematic textual check on the transmitted ஆத்திசூடி. That is a real
   method and worth a `../../aaivu/sothanai-*`; it is not a finding yet.
-- **[விளக்கம் | INTERPRETATION]** "ங appears almost exclusively as ங் before க" is our
-  generalisation from ordinary vocabulary, not a quoted rule. Tolkāppiyam's own statement of ங's
-  distribution should be located in நூன்மரபு/மொழிமரபு and cited before this is repeated.
+- **[மூலம் | SOURCE]** *Closed the same day it was opened.* ங's distribution **is** stated in the
+  grammar — **நூன்மரபு நூற்பா 25**: *ங ஞ ண ந ம ன எனும் புள்ளி முன்னர் / **தம்தம் இசைகள் ஒத்தன
+  நிலையே*** — after each of those dotted nasals stands **its own matching sound**. The rule is
+  wider and more precise than this entry's paraphrase: *every* nasal is followed by its class-mate
+  (ங்→க, ஞ்→ச, ண்→ட, ந்→த, ம்→ப, ன்→ற), and ங is simply the one for whom that class-mate is the
+  only thing that ever follows. **ஙப் போல் வளை is a restatement of a phonotactic law.** Full
+  reading: [`../../ilakkanam/tholkappiyam-ezhuthathikaram.md`](../../ilakkanam/tholkappiyam-ezhuthathikaram.md) §1.
 - **[விளக்கம் | INTERPRETATION]** That Auvaiyar was *consciously* obeying Tolkāppiyam is inference.
   A native composer obeys phonotactics whether or not they have read the grammar. The observable
   fact is the agreement; the intention is not recoverable.
