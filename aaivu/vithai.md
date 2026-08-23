@@ -78,3 +78,11 @@ The 2026-08-01 exploration did not move by accumulating answers. It moved throug
 ## வி-019 · விதையின் தரம் — what grows matters
 
 The transmission/resonance exchange supplied a practical seed: for realization-oriented communication, ask not only whether the message was copied, but whether another mind could **reconstruct, extend, or apply** it. This does not replace fidelity, and it risks projection; its value is that it makes resonance observable on several separable axes. First protocol sketch: `vivaatham/001-isaivin-thiruppam.md` §8A. *(Same seed as வி-017, reached independently through the parallel record of the same exchange; the two entries are kept side by side until the two shelves are consolidated — see `README.md`.)*
+
+## வி-020 · அரிவை — Tamil resolves an age English can only gesture at
+
+குறுந்தொகை 2 calls the woman **அரிவை**. That is not the generic word for "woman." Classical Tamil carries a sequence of seven age-names for women — பேதை · பெதும்பை · மங்கை · மடந்தை · **அரிவை** · தெரிவை · பேரிளம்பெண் — each naming a band of years, and the poet selects one. English has *girl · young woman · woman* and then falls back on numbers. Every published translation of this poem quietly loses the datum: the reader is told "woman" and never learns that the original specified an age with a single word, in a slot where the meter allowed no explanation.
+
+**Seed for phase 2:** Tamil already demonstrates that a *closed, ordered lexical series* can carry precise scalar information at zero syntactic cost — one word does what English needs a qualifier or a number to do. That is the same compression mechanism as the திணை code (வி-006) but on a linear scale rather than a categorical one, and it is a shape phase 2 can reuse for dimensions that currently need periphrasis. Note the constraint that comes with it: like திணை, it only compresses for a reader who holds the codebook (வி-008).
+
+*Caution kept:* the year-ranges commonly quoted for the seven names vary between sources and are not adopted here. The *existence and ordering* of the series is the seed; the numbers are not. Full entry: `../marabu/paadal/003-kurunthogai-002-kongu-ther.md` §9.

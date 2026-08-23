@@ -18,6 +18,9 @@ Terms as this project uses them. Grows with the work.
 | எல்லை | ellai | limit/boundary — an expressive limit met in practice |
 | விதை | vithai | seed — a place where Tamil already outruns other languages, or raw material for evolution |
 | நாட்குறிப்பு | naatkurippu | journal — one entry per session |
+| மரபு | marabu | tradition / lineage / the proper way of a thing that is handed on — the space where the poems are read as inheritance (`marabu/`); Tolkāppiyam's own last chapter is மரபியல் |
+| ஓசை | oosai | sound as heard, before meaning — §1 of every `marabu/` entry, and the axis the IO builds blind |
+| ஐயம் | aiyam | doubt — the mandatory closing section of every `marabu/` entry; never empty |
 | அகராதி | agaraadhi | dictionary — this file |
 | வரலாறு | varalaru | history — the `varalaru/` shelf: language evolution + knowledge/bias audit |
 | இலக்கியம் | ilakkiyam | literature — the reading shelf |

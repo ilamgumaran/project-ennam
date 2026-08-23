@@ -29,6 +29,7 @@ This repo is the language limb of an existing body of work:
 - `paadam/` — பாடம்: the learning track, lessons in rising difficulty (roadmap in its README)
 - `varalaru/` — வரலாறு: history — `mozhi-varalaru.md` (how the language evolved), `arivu-varalaru.md` (how Tamil was built as knowledge, with the bias ledger), `thonmai-pathivu.md` (the ancient documentary record), `inru-thamizh.md` (how people use Tamil today)
 - `ilakkiyam/` — இலக்கியம்: the reading shelf — Sangam poems and the Kural, read closely
+- `marabu/` — மரபு: what gets handed down — the poems read as inheritance, each entry layered so the same page serves a child, a learner, and the deep reading (`marabu/README.md`)
 - `aaivu/` — ஆய்வு: the research track — `ellai.md` (limits met), `vithai.md` (seeds), `karuthu/` and `vivaatham/` (how claims change under challenge — two shelves opened in parallel; consolidation awaits the OI ear), `saaram.md` (extracted patterns), `mozhi-udal-uyir.md` (language–body–life-energy), `sothanai-*` (experiments)
 - `appaal/` — அப்பால்: phase 3 — design principles, open questions, and `meippadam/` (build 01: the first constructed artifact — a featural encoder proposing articulatory space as the shared tuning)
 - `naatkurippu/` — நாட்குறிப்பு: one journal entry per working session
@@ -37,7 +38,7 @@ This repo is the language limb of an existing body of work:
 
 ## எப்படி இணைகிறது | How the Tracks Feed Each Other
 
-Lessons build depth; research watches the lessons. Anything Tamil says better than English goes to `vithai.md`. Anything it cannot yet say goes to `ellai.md`. When a question changes through disagreement, evidence, or revision, its path goes to `aaivu/karuthu/`; when a hypothesis is ready to risk, it becomes a `sothanai-*`. Anything we notice about *us working* goes to `isaivu.md`. Documents are bilingual — Tamil first where we can, English scaffolding where we must, the Tamil share growing as we do.
+Lessons build depth; `marabu/` makes the depth transmissible — `paadam/` starts from the grammar and reaches the poem, `marabu/` starts from the poem and finds the grammar inside it. Research watches the lessons. Anything Tamil says better than English goes to `vithai.md`. Anything it cannot yet say goes to `ellai.md`. When a question changes through disagreement, evidence, or revision, its path goes to `aaivu/karuthu/`; when a hypothesis is ready to risk, it becomes a `sothanai-*`. Anything we notice about *us working* goes to `isaivu.md`. Documents are bilingual — Tamil first where we can, English scaffolding where we must, the Tamil share growing as we do.
 
 The record is the memory.
 
