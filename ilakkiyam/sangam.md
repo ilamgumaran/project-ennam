@@ -9,7 +9,20 @@ The corpus divides all experience in two — the split that Tolkappiyam codifies
 - **அகம்** — the interior: love in all its phases. By convention akam poems name no lovers — the speakers are *anyone*: தலைவன், தலைவி, தோழி (he, she, her friend). Interior life is written as universal.
 - **புறம்** — the exterior: war, kings, generosity, death, wisdom. Named persons, real events, praise and lament.
 
-### ஐந்திணை — the five landscapes
+### ஐந்திணை — the five landscapes, inside a set of seven
+
+> **Corrected 2026-08-23 from the மூலம்.** This section described **five** திணை. Tolkāppiyam's very
+> first நூற்பா of பொருளதிகாரம் names **seven**:
+>
+> > கைக்கிளை முதலாப் பெருந்திணை இறுவாய்
+> > முற்படக் கிளந்த **எழு திணை** என்ப. (அகத்திணையியல் 1)
+>
+> The five below are *நடுவண் ஐந்திணை*, the **middle** five. **கைக்கிளை** — one-sided love, where no
+> word comes back — stands before them; **பெருந்திணை** stands after. The ordering is not a list but
+> a **scale**: love that has not yet reached its measure, love in measure, love that has exceeded it.
+> Popular accounts drop both ends, and with them the reason the five are in that order at all.
+> Full reading, with கைக்கிளை and பெருந்திணை quoted and glossed:
+> [`../ilakkanam/tholkappiyam-thinai.md`](../ilakkanam/tholkappiyam-thinai.md).
 
 Akam's engineering core: each inner state of love is mapped to a landscape, with its flower, season, hour, bird, drum, god — a **compositional code** where mentioning a jasmine or a parched track *is* a statement about the heart:
 
@@ -19,7 +32,12 @@ Akam's engineering core: each inner state of love is mapped to a landscape, with
 | முல்லை | forest/pasture | patient waiting |
 | மருதம் | riverine farmland | quarrel, infidelity |
 | நெய்தல் | seashore | anxious separation |
-| பாலை | wasteland | hard separation, elopement |
+| பாலை | wasteland — **and no land of its own** | hard separation, elopement |
+
+**பாலை has no country**, and the grammar says so in the நூற்பா immediately following:
+*நடுவண் ஐந்திணை **நடுவணது ஒழிய** / படு திரை வையம் பாத்திய பண்பே* (அகம் 2) — of the middle five, it
+is *all but the middle one* that the sea-girt world is apportioned into. Separation is not a place
+you travel to. It is what the other landscapes become when they parch.
 
 A poet writes the outer scene; the trained reader receives the inner state — **உள்ளுறை**, meaning carried implicitly by the scene (logged as வி-006). This is a 2,000-year-old formal system for expressing interiority through structure — the closest ancient precedent for what Ennam attempts (வி-001).
 

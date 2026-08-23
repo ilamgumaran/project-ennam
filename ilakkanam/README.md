@@ -19,9 +19,11 @@ holds **what the text actually says**, so both can rest on something checkable.
 
 ## நிலை | Standing caution
 
-**No commentary has been read.** இளம்பூரணர், நச்சினார்க்கினியர் and சேனாவரையர் are the great
-commentators and they are not yet in `../_src/`. Every reading on this shelf is of the bare நூற்பா,
-which is a real methodological position and a real limitation — `../varalaru/arivu-varalaru.md` §5
+**Commentary is mostly unread — but not entirely, and the difference matters per document.**
+`tholkappiyam-thinai.md` **does** cite நச்சினார்க்கினியர் from `pmuni0500_01`, which is local.
+The other four read the bare நூற்பா only; சேனாவரையர் on சொல்லதிகாரம் and இளம்பூரணர் on
+செய்யுளியல் are not in `../_src/` at all. Reading a sutra without its உரை is a real
+methodological position and a real limitation — `../varalaru/arivu-varalaru.md` §5
 warns that the commentary can be the bias *and* the key, and the warning runs both ways.
 
 Documents here marked as drafted under the corpus sweep of 2026-08-23 were produced by subagent
