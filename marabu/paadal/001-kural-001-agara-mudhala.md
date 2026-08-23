@@ -200,8 +200,20 @@ took the அ out. Do it with ச, ட, த, ப. Then take the dots off and hear
   every மெய் without the dot **comes alive** (உயிர்த்தல்) with அகரம். The grammar puts it in the
   vocabulary of *life*, not of pronunciation. See
   [`../../ilakkanam/tholkappiyam-ezhuthathikaram.md`](../../ilakkanam/tholkappiyam-ezhuthathikaram.md) §1.
-  Still outstanding: whether பரிமேலழகர் or மணக்குடவர்
-  read *this couplet* that way. `pmuni0450_01` (Parimēlaḻakar) and `pmuni0650` (Maṇakkuṭavar) are on
+  **And the commentators have now been read.** Verdict: the repo's reading is **not contradicted,
+  not stated, and half-anticipated** — see
+  [`../../ilakkiyam/thirukkural-urai.md`](../../ilakkiyam/thirukkural-urai.md) §1.
+  **மணக்குடவர்** says only that all letters "have அகரம் as their first" and gives no reason at all.
+  **பரிமேலழகர்** does give a reason — but a different one: அ is first because of its *manner of
+  production*, arising "by nature, which is mere நாதம்," not by modification. He reads the couplet
+  as an **எடுத்துக்காட்டு உவமை** turning on **தலைமை**, primacy. So the entry's larger claim — that
+  Valluvar's "first" means more than "earliest" — is exactly Parimēlaḻakar's instinct, reached on
+  other ground; the **inherent-vowel mechanism is in neither commentary**, and its authority remains
+  தொல்காப்பியம் நூன்மரபு 17. **Novel in mechanism, traditional in instinct.** This entry should not
+  be cited as reporting a commentator's reading.
+  *(They also differ on ஆதிபகவன்: மணக்குடவர் reads two words in apposition; பரிமேலழகர் reads one
+  compound and names its Sanskrit-grammar type — the Sanskritic frame `../../varalaru/arivu-varalaru.md`
+  §5 flags, visible in the first couplet.)* `pmuni0450_01` (Parimēlaḻakar) and `pmuni0650` (Maṇakkuṭavar) are on
   Project Madurai and this should be checked before the reading is repeated as traditional.
   See `../../varalaru/arivu-varalaru.md` §5 on exactly this bias.
 - **[விளக்கம் | INTERPRETATION]** "No sect is named" is a standard observation, but the claim that
