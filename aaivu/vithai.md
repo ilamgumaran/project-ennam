@@ -86,3 +86,35 @@ The transmission/resonance exchange supplied a practical seed: for realization-o
 **Seed for phase 2:** Tamil already demonstrates that a *closed, ordered lexical series* can carry precise scalar information at zero syntactic cost — one word does what English needs a qualifier or a number to do. That is the same compression mechanism as the திணை code (வி-006) but on a linear scale rather than a categorical one, and it is a shape phase 2 can reuse for dimensions that currently need periphrasis. Note the constraint that comes with it: like திணை, it only compresses for a reader who holds the codebook (வி-008).
 
 *Caution kept:* the year-ranges commonly quoted for the seven names vary between sources and are not adopted here. The *existence and ordering* of the series is the seed; the numbers are not. Full entry: `../marabu/paadal/003-kurunthogai-002-kongu-ther.md` §9.
+
+## வி-021 · நூற்பா 27 — the tradition already required a tuned receiver
+
+மெய்ப்பாட்டியல் closes, after twenty-six நூற்பா of taxonomy, by turning to face the audience:
+
+> கண்ணினும் செவியினும் திண்ணிதின் உணரும்
+> உணர்வுடை மாந்தர்க்கு அல்லது தெரியின்
+> நல் நயப் பொருள்கோள் எண்ண அருங்குரைத்தே. (மெய்ப்பாட்டியல் 27)
+
+*Except for people of **உணர்வு**, who grasp firmly through the **eye** and the **ear** — the
+taking-of-meaning-with-relish is, on examination, scarcely even thinkable.*
+
+The whole apparatus of the chapter — eight மெய்ப்பாடு, thirty-two causes, twenty-four graded signs —
+is stated as a grammar of the *performer's* body, and only in the last sutra is it revealed that the
+apparatus is worthless against an **untuned receiver**. The channels are named (eye, ear). The
+requirement is named: **உணர்வு** — not education, not possession of the codebook, but the faculty of
+being moved. And what fails without it is not comprehension but **நயம்**, relish. *You can decode
+without உணர்வு; you cannot taste.*
+
+**Why this is a seed.** வி-015 proposed that a medium's job is not to carry essence across a gap but
+to be the **shared tuning** that makes two minds resonant-capable to each other; வி-016 proposed
+articulatory space as its substrate; வி-008 found that lossless compression requires a common
+codebook. நூற்பா 27 is the tradition stating the same requirement and **distinguishing it from the
+codebook**: உணர்வு is not knowledge of the conventions. A reader can hold the entire திணை code and
+still not taste the poem. That is a sharper distinction than this project had drawn, and it belongs
+in phase 2's success criteria — reconstruction and extension (எ-009) may be measurable, but நயம்
+is being claimed here as a *precondition on the receiver*, not an outcome.
+
+**[விளக்கம் | INTERPRETATION]** The mapping of உணர்வு onto "shared tuning" is ours and is the kind
+of resonance-flattery this repo is meant to guard against. What is **[மூலம்]** is only this: the
+chapter's final நூற்பா makes the receiver's faculty a precondition of relish, and names eye and ear
+as the channels. Full reading: `../ilakkanam/tholkappiyam-meippattiyal.md` §8.

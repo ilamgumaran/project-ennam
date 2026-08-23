@@ -29,6 +29,7 @@ This repo is the language limb of an existing body of work:
 - `paadam/` — பாடம்: the learning track, lessons in rising difficulty (roadmap in its README)
 - `varalaru/` — வரலாறு: history — `mozhi-varalaru.md` (how the language evolved), `arivu-varalaru.md` (how Tamil was built as knowledge, with the bias ledger), `thonmai-pathivu.md` (the ancient documentary record), `inru-thamizh.md` (how people use Tamil today)
 - `ilakkiyam/` — இலக்கியம்: the reading shelf — Sangam poems and the Kural, read closely
+- `ilakkanam/` — இலக்கணம்: the grammar shelf — தொல்காப்பியம் read from the மூலம், every நூற்பா quoted and numbered, so `paadam/` and `marabu/` rest on something checkable
 - `marabu/` — மரபு: what gets handed down — the poems read as inheritance, each entry layered so the same page serves a child, a learner, and the deep reading (`marabu/README.md`)
 - `aaivu/` — ஆய்வு: the research track — `ellai.md` (limits met), `vithai.md` (seeds), `karuthu/` and `vivaatham/` (how claims change under challenge — two shelves opened in parallel; consolidation awaits the OI ear), `saaram.md` (extracted patterns), `mozhi-udal-uyir.md` (language–body–life-energy), `sothanai-*` (experiments)
 - `appaal/` — அப்பால்: phase 3 — design principles, open questions, and `meippadam/` (build 01: the first constructed artifact — a featural encoder proposing articulatory space as the shared tuning)

@@ -19,5 +19,13 @@ Real text, read closely — the other half of every lesson. Each deep-dive gives
 
 - `sangam.md` — the corpus, the திணை system, and four poems: குறுந்தொகை 40, குறுந்தொகை 3, புறநானூறு 192, புறநானூறு 86
 - `thirukkural.md` — the form that fits seven seas into a mustard seed
+- `agananuru.md` — அகநானூறு: the long akam anthology, its three divisions, and its history-bearing similes
+- `purananuru.md` — புறநானூறு: war, kings, generosity, death; the திணை/துறை apparatus read from the colophons
+- `natrinai-ainkurunuru.md` — நற்றிணை, and ஐங்குறுநூறு's remarkable hundred-per-landscape architecture
+
+**On provenance:** the three added 2026-08-23 were drafted by subagent readers working from local
+Project Madurai sources under the corpus sweep, and every Tamil quotation in them was grep-verified
+against the source file before entry. See `../ilakkanam/README.md` for the standing caution on what
+verification does and does not catch. The grammar these poems obey is on that shelf.
 
 More get added as lessons reach them (சிலப்பதிகாரம் and பாரதி are next in line).
