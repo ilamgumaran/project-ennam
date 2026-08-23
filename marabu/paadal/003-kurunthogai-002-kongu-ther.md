@@ -131,10 +131,33 @@ Look at what that does. The two words the poem sets *against* each other — **�
 wanted) and **கண்டது** (what was seen) — are bound together by alliteration. The ear hears them as a
 matched pair while the sense drives them apart. The sound welds what the meaning splits.
 
-**எதுகை?** Not systematically, and that is a fact about the period rather than about this poem.
-Sangam ஆசிரியப்பா is organised by மோனை and by தளை, not by the second-letter rhyme; **எதுகை becomes a
-governing requirement later**, and by the time of the Kural it is near-universal (entry 001 §7).
-Prosody has a history. (§11 — verify.)
+**எதுகை?** Present, but not governing — and the *reason* is not the one this entry first gave.
+
+> **Corrected 2026-08-23.** This section originally claimed எதுகை was "a **post-Sangam**
+> systematisation." **That was wrong.** தொல்காப்பியம் **names** எதுகை (செய்யுளியல் நூ. 84),
+> **defines** it (89), licenses kindred letters for it (90) and sub-classifies it by interval
+> (94–95). It was systematised early, not late. Full arc:
+> [`../../aaivu/karuthu/002-ethugai-thodai.md`](../../aaivu/karuthu/002-ethugai-thodai.md).
+
+What survives, better supported than when it was guessed: **எதுகை does not govern ஆசிரியப்பா.**
+Tolkāppiyam never assigns a தொடை to any பா — while it assigns தளை to particular பா compulsorily and
+repeatedly. **தளை is constitutive; தொடை is ornamental.** And நூ. 96 names **செந்தொடை**, the legitimate
+category for a line that differs from every tie listed: *a system that names the absence of rhyme is
+one in which rhyme is not required.*
+
+Measured across eight corpora against a shuffled-partner baseline, எதுகை between consecutive அடி
+runs at **14–30 % in ஆசிரியப்பா** (2.6–4.8× chance — real, but one junction in four to seven) against
+**48–57 % in the வெண்பா group** (7.8–9.7×). The direction holds; the word "post-Sangam" does not.
+
+**மோனை**, line 2: **கா**மம் · செப்பாது · **க**ண்டது · மொழிமோ — சீர் 1 and 3, one foot apart, which
+is Tolkāppiyam's own named interval **பொழிப்பு** (நூ. 94). And the within-line reading is not just
+ours: across அடி, மோனை sits **at chance** in all seven corpora measured (0.9–1.0×); *within* an அடி
+it runs 1.5–2.4×. **Tamil poets alliterated foot-to-foot inside a line, not line-to-line.**
+
+Look at what that does. The two words the poem sets *against* each other — **காமம்** (what is
+wanted) and **கண்டது** (what was seen) — are bound together by alliteration at a பொழிப்பு interval.
+The ear hears them as a matched pair while the sense drives them apart. The sound welds what the
+meaning splits.
 
 > **Computed, not heard.** Every claim in this section is scansion performed blind. Ilam's ear rules —
 > `../../murai.md` §8. The மோனை-welding claim above is the one most worth testing aloud.
@@ -224,10 +247,13 @@ Then come back and say what happened. Was the answer different from what you exp
   classical -இன் comparative → modern -ஐ விட. Two instances. If real as a directional drift it needs
   a proper sample across a corpus with a declared failure condition. For `../../aaivu/` as a
   `sothanai-*`, not to be repeated as fact until then.
-- **[கருதுகோள் | HYPOTHESIS]** That **எதுகை is a post-Sangam systematisation** — present but not
-  governing in ஆசிரியப்பா, near-universal by the Kural. Stated here from the pattern of two texts.
-  Needs checking against தொல்காப்பியம் **செய்யுளியல்** (பொருளதிகாரம் 3.8), which is in `pmuni0100`
-  and which we have downloaded but not yet read on this point. **This is the next thing to verify.**
+- **[முடிவு | RESOLVED 2026-08-23]** The எதுகை hypothesis was checked against செய்யுளியல் and
+  **came back half wrong.** "Post-Sangam" is refuted — எதுகை is in Tolkāppiyam. "Not governing in
+  ஆசிரியப்பா" is supported, by நூ. 96 (செந்தொடை) and by measurement. §7 is rewritten and the arc is
+  preserved in [`../../aaivu/karuthu/002-ethugai-thodai.md`](../../aaivu/karuthu/002-ethugai-thodai.md).
+  The entry was wrong in public and the wrongness is kept in view rather than tidied away.
+- **[மூலம் | SOURCE]** `pmuni0110` prints this poem's அடி 4 and 5 on **one physical line**. The poem
+  is five அடி; the merge is an e-text formatting artefact and this entry's layout is correct.
 - **[திறந்த கேள்வி | OPEN QUESTION]** இறையனார் as Śiva is legend. Whether a historical poet of that
   name existed is unresolved and this entry takes no position.
 - **[திறந்த கேள்வி | OPEN QUESTION]** காமம் in line 2 — we gloss it as "what is desired / what would

@@ -94,8 +94,18 @@ differ (அ / ப) but match in quantity — both குறில், short — 
 This is the rhyme Tamil actually uses, and note where it lands: not at the end of the line, but one
 syllable in. A Tamil rhyme is not a closing; it arrives as the word is *opening*.
 
+> **Refined 2026-08-23.** This entry first called எதுகை "near-universal in the Kural." Measured, it
+> is **56.8 %** between the two அடி — dominant, not near-universal. The miss-inspection explains
+> why, and is the more interesting fact: in **குறள் 21** the எதுகை sits *inside* line 1 —
+> ஒ**ழு**க்கத்து / வி**ழு**ப்பத்து — with line 2 not participating at all. **Valluvar anchors எதுகை
+> on the opening சீர் but is free about where its partner sits.** So: the dominant organising tie,
+> though not always between the two அடி. [`../../aaivu/karuthu/002-ethugai-thodai.md`](../../aaivu/karuthu/002-ethugai-thodai.md).
+
 **மோனை** (alliteration, on the first letter), line 1: **அ**கர … **ஆ**தி — first and fourth சீர்.
 அ and ஆ are the same vowel long and short, so this counts as **இனமோனை**, same-family alliteration.
+That this is a *within-line* reading is now corroborated rather than assumed: across seven corpora,
+மோனை between அடி sits **at chance** (0.9–1.0×), while within an அடி it runs 1.5–2.4×. Tamil
+alliterates foot-to-foot inside a line — which is also what நூ. 88's `அடிதொறும்` must mean.
 
 **ஈற்றுச்சீர்.** A வெண்பா must end on one of four patterns, named by exemplar words —
 நாள் · மலர் · காசு · பிறப்பு. **உலகு** scans as நிரை + உ, the **பிறப்பு** pattern. (Verify — §11.)
