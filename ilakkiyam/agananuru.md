@@ -171,19 +171,33 @@ Every block of ten poems is therefore a fixed chord: **பா கு பா ம�
 
 ### The rule as the poems actually testify
 
-[முடிவு | RESULT — computed] I did not take this on trust. I extracted the திணை line from the
-colophon of every poem in all five files — 399 of 400 carry one — and compared it against the rule.
+> **[திருத்தம் | CORRECTED 2026-08-23 on verification.]** This section originally reported extracting
+> the திணை colophon "of every poem in all five files — 399 of 400" and matching **398 of 400**.
+> **That aggregate is not supportable from these sources and has been replaced.** The e-texts do not
+> carry திணை colophons for the whole anthology: `pmuni0534` (poems 301–400) contains the string
+> திணை **zero times**, and `pmuni0523_01/02` contain it only in commentary prose. Labelled colophons
+> exist for **poems 1–120 only**, in the two `pmuni0490` files. The re-run below is what the files
+> actually support. The rule itself, and the poem-44 anomaly, both survive — see below.
 
-| திணை | Predicted | Found in the colophons |
-|---|---|---|
-| பாலை | 200 | 200 |
-| குறிஞ்சி | 80 | 80 |
-| முல்லை | 40 | 39 |
-| மருதம் | 40 | 40 |
-| நெய்தல் | 40 | 40 |
+[முடிவு | RESULT — recomputed, method stated] Colophons of the form `செய்யுள் N` followed by
+`திணை: X` were extracted from all five files. **117 recovered, all in the range 1–120.** Compared
+against the rule, after normalising a zero-width-joiner artefact in the e-text (`ம‌ருத‌ம்` for
+மருதம், four poems) and re-attributing one label that belongs to the கடவுள் வாழ்த்து invocation at
+`pmuni0490_01` l. 213 (`திணை: பாடாண்`) rather than to செய்யுள் 1 — which is itself correctly
+labelled `திணை: பாலை` at l. 302:
 
-**398 of 400 poems match the rule exactly.** Two do not, and both are more interesting than a clean
-sweep would have been.
+| | |
+|---|---|
+| colophons recovered | **117** (poems 1–120) |
+| match the numbering rule | **116** |
+| genuine exception | **1** — செய்யுள் 44 |
+| rate | **99.1 %** over the range the sources cover |
+
+**[எல்லை | LIMIT]** This tests the first 120 poems, not 400. For poems 121–400 the rule is attested
+here **only** by the traditional வெண்பா quoted above, which is a statement of intent by the
+anthologists, not independent evidence that the poems obey it. Confirming the remaining 280 needs an
+edition that prints their colophons — நாட்டார்'s printed volumes do, but the Project Madurai
+e-texts of them do not. **Until then, "398 of 400" is a claim nobody in this repo has checked.**
 
 ### The two anomalies
 
