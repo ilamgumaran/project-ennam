@@ -18,6 +18,10 @@ Its structure is the tradition's deepest signature: three books —
 2. **சொல்லதிகாரம்** — words and morphology
 3. **பொருளதிகாரம்** — *content*: love, war, landscape, feeling, the situations of life and how poetry may speak them
 
+**The shape, counted.** 1,610 நூற்பா (sutras) — 483 in எழுத்ததிகாரம், 463 in சொல்லதிகாரம், 664 in பொருளதிகாரம் — and each அதிகாரம் divides into exactly **nine இயல்**, twenty-seven chapters in all. The symmetry is deliberate and is itself a claim: the content of lived experience gets the same structural weight as the sounds and the words, and slightly more of the text. [மூலம் | SOURCE: ta.wikipedia `தொல்காப்பியம்`, §அமைப்பு; the nine-fold division is confirmed directly against the table of contents in the Project Madurai mūlam `pmuni0100`.]
+
+**The dating spread, by name.** No consensus exists and the positions are far apart: தெ.பொ. மீனாட்சிசுந்தரம் and இலக்குவனார் at ~700 BCE; others near 500 BCE; **ச. வையாபுரிப்பிள்ளை** and several foreign scholars as late as the **3rd century CE**; the multiple-author view putting composition across 3rd c. BCE – 5th c. CE; மா. இராசமாணிக்கனார் arguing before the 4th c. BCE; the Central Institute of Classical Tamil fixing on 711 BCE. Scholars also hold that the received text contains **இடைச்செருகல்** — later interpolations — which is why "the date of Tolkappiyam" may not be one question at all. [மூலம் | SOURCE: same article. See §9 on how that article handles the question.]
+
 Book three is the extraordinary one. No Greek, Latin, or Sanskrit grammar includes *the subject matter of experience* inside grammar. Tolkappiyam treats **how to express lived interiority as a rule-governed system** — the திணை landscapes, the permitted speakers, the moments of love and war that may be voiced. The tradition's founding text already believed what Ennam believes: **expression of experience is part of the language's engineering, not outside it.** (Logged as seed வி-005.)
 
 The same book is also the first bias gate we can actually read: it codifies **who may speak** (which persons in which situations), gendered scripts (கற்பு chastity ideology enters the poetics), and social norms presented as grammar. The founding gift and the founding bias are the same page.
@@ -66,6 +70,11 @@ The rescued classics detonated in a culture mid-awakening. The **தனித்
 | Colonial scholarship | Missionaries, philologists | European categories; race science | Grammar described in borrowed frames; "Dravidian" fused with ancestry |
 | Rescue | Two scholars' routes and luck | Whatever survived to be found | Canon = survivorship, mistaken for completeness |
 | Purism | Movement intellectuals | De-Sanskritization | Politicized lexicon; no neutral register in some domains |
+| Digital reference | Volunteer editors | Antiquity as national credit; no editorial brake on chronology | Tamil-language reference pages that are excellent on *structure* and advocate on *date* — see below |
+
+**A gate we are standing in right now.** The Tamil Wikipedia article on தொல்காப்பியம் — a source this project uses — is not neutral on dating, and the failure is instructive because it is *local to one axis*. On structure it is excellent and checkable: the nine இயல் per அதிகாரம் and the நூற்பா counts in §2 above were confirmed against the Project Madurai mūlam. On chronology the same article surveys the real scholarly spread and then, in a subsection, derives a date **before the 21st century BCE** from a genealogical calculation — 49 generations at 27 years each, taken from a Kapilar poem about the ancestry of இருங்கோவேள் — and calls the result *தெள்ளத்தெளிவாக*, crystal clear. It is not. A dynastic genealogy in a praise-poem is not a chronometer, and the arithmetic assumes the list is complete, literal, and evenly spaced.
+
+**[முன்மொழிவு | PROPOSAL] Working rule for this repo:** use ta.wikipedia for *structure, terminology, and the map of who-argues-what*; take **no date** from it without a named scholar attached, and prefer to say the question is open. The bias here is not fabrication — every fact in the chain is real — it is **motivated inference**, which is harder to see and therefore worth naming. This is the same failure mode `../murai.md` §9 guards against on our own side: a chain of true steps arriving at a conclusion the evidence does not carry.
 
 ## 10. மொழியுள் சார்புகள் | Biases inside the language itself
 
