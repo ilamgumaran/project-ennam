@@ -12,7 +12,7 @@
 > | **நன்னூல்** | `pmuni0147-ilakkanam-nannool.txt` | 1–1278 | 462 நூற்பா |
 >
 > Comparison against தொல்காப்பியம் uses `pmuni0100-tholkappiyam-moolam.txt` and the repo's already
-> verified [`../../ilakkanam/tholkappiyam-thinai.md`](../../ilakkanam/tholkappiyam-thinai.md).
+> verified [`../../ilakkanam/tholkappiyam-thinai.md`](../ilakkanam/tholkappiyam-thinai.md).
 >
 > **Dates are contested throughout.** §8 states the ranges and names who holds what. No single date
 > is asserted anywhere in this document.
@@ -27,7 +27,7 @@
 
 ## 0. இந்த ஆவணம் என்ன செய்கிறது | What this document is for
 
-The repo has read தொல்காப்பியம் closely — [`../../ilakkanam/`](../../ilakkanam/) holds
+The repo has read தொல்காப்பியம் closely — [`../../ilakkanam/`](../ilakkanam/) holds
 எழுத்து, சொல், திணை, மெய்ப்பாடு and செய்யுள். The implicit story in those files is that Tamil
 poetics was *codified once*, early, and then the literature happened.
 
@@ -354,7 +354,7 @@ is. **They are in adjacent chapters and they do not agree.**
 **[விளக்கம் | INTERPRETATION] This is the structural difference between நாலடியார் and the Kural,
 and it is worth more than any single verse.** The Kural is one mind; its 1,330 couplets can be held
 to a standard of consistency, and the whole உரை tradition (see
-[`../../ilakkiyam/thirukkural-urai.md`](../../ilakkiyam/thirukkural-urai.md)) exists partly to
+[`../../ilakkiyam/thirukkural-urai.md`](../ilakkiyam/thirukkural-urai.md)) exists partly to
 enforce it — commentators work hard to reconcile apparently conflicting couplets because a single
 author is presumed. **நாலடியார் is `தனிப்பாடல்களின் தொகுப்பு` by its own front matter, and a
 compilation owes no one consistency.** The contradiction is not a flaw the editor missed. It is the
@@ -553,7 +553,7 @@ Nakkīrar's உரை to be authoritative, and built a courtroom to make it so.
 
 ### 5.2 The connection to marabu 003
 
-[`../../marabu/paadal/003-kurunthogai-002-kongu-ther.md`](../../marabu/paadal/003-kurunthogai-002-kongu-ther.md)
+[`../../marabu/paadal/003-kurunthogai-002-kongu-ther.md`](../marabu/paadal/003-kurunthogai-002-kongu-ther.md)
 attributes குறுந்தொகை 2 (`கொங்குதேர் வாழ்க்கை...`) to **இறையனார்**, records that tradition holds
 Śiva of Madurai composed it himself, and marks the attribution as legend in its §11.
 
@@ -601,7 +601,7 @@ not affect the order of magnitude.
 1. **It is the earliest surviving list of the எட்டுத்தொகை as a group.** The third-Sangam entry
    names நெடுந்தொகை (= அகநானூறு), குறுந்தொகை, நற்றிணை, புறநானூறு, ஐங்குறுநூறு, பதிற்றுப்பத்து,
    கலி, பரிபாடல் — with the counts 400/400/400 and 150/70 — which is the anthology set the repo
-   reads in [`../../ilakkiyam/`](../../ilakkiyam/). **The corpus's own name for itself starts
+   reads in [`../../ilakkiyam/`](../ilakkiyam/). **The corpus's own name for itself starts
    here.**
 2. **It names books that are lost.** முதுநாரை, முதுகுருகு, களரியாவிரை, வெண்டாளி, வியாழமாலை அகவல்,
    மாபுராணம், இசைநுணுக்கம், பூதபுராணம் — none survive. The e-text's editorial note (lines 436–441)
@@ -611,7 +611,7 @@ not affect the order of magnitude.
    `நமக்கு கிடைக்காத தொன்னூற்களின் பெயர்கள்`, *the names of ancient books not available to us* —
    and preserves 325+ verses of an akapporuḷ
    கோவை since published as **பாண்டிக்கோவை**. This bears directly on
-   [`../../varalaru/arivu-varalaru.md`](../../varalaru/arivu-varalaru.md) §3 on survival bias: the
+   [`../../varalaru/arivu-varalaru.md`](../varalaru/arivu-varalaru.md) §3 on survival bias: the
    commentary is a *list of what did not survive*, made by someone who could still see it.
 3. **It puts Tolkappiyar in the middle Sangam and Agastya in both the first and the middle.** The
    tradition is explicitly claiming Tolkappiyam is not the beginning. `அகத்தியம்` is — a work that
@@ -694,7 +694,7 @@ rather than found for it. The categories survive the literature.
 வெண்பā by (nominally) one hand, each with a declared subject. **Prediction:** metrical variation
 across the 361 should be markedly narrower than across 400 நாலடியார் verses by many hands.
 Measurable with the சீர்/அசை machinery already built for
-[`../../ilakkanam/tholkappiyam-seyyuliyal.md`](../../ilakkanam/tholkappiyam-seyyuliyal.md).
+[`../../ilakkanam/tholkappiyam-seyyuliyal.md`](../ilakkanam/tholkappiyam-seyyuliyal.md).
 
 ### 6.2 The reclassification — twelve திணை in three ranks
 
@@ -714,7 +714,7 @@ Measurable with the சீர்/அசை machinery already built for
 **akappuṟam**.*
 
 **Now set that beside Tolkappiyam.** The repo's verified table in
-[`../../ilakkanam/tholkappiyam-thinai.md`](../../ilakkanam/tholkappiyam-thinai.md) §6 gives
+[`../../ilakkanam/tholkappiyam-thinai.md`](../ilakkanam/tholkappiyam-thinai.md) §6 gives
 Tolkappiyam's seven புறத்திணை and the akam திணை each is fastened to:
 
 | | **தொல்காப்பியம்** (7) | **புறப்பொருள் வெண்பாமாலை** (12, in 3 ranks) |
@@ -739,7 +739,7 @@ same seven.** The differences are all one move:
   about fighting. வாகை is excellence of any kind; பாடாண் is praise.
 - **கைக்கிளை and பெருந்திணை are pulled in** from the akam side as **அகப்புறம்**, "the outer face of
   akam." These are exactly the two ends of Tolkappiyam's seven-fold akam scale that
-  [`../../ilakkiyam/sangam.md`](../../ilakkiyam/sangam.md) §1 was corrected to restore — one-sided
+  [`../../ilakkiyam/sangam.md`](../ilakkiyam/sangam.md) §1 was corrected to restore — one-sided
   love before the five, excessive love after. **Here they are re-annexed by the puram grammar.**
 
 **[விளக்கம் | INTERPRETATION] The criterion has changed, and that is the finding.** Tolkappiyam
@@ -784,7 +784,7 @@ slots, because the poems had to have somewhere to go.** Its final verse for the 
 `பாண் ஆற்றுப்படையே, கூத்தர் ஆற்றுப்படையே, / பொருநர் ஆற்றுப்படையே, விறலி ஆற்றுப்படையே`.
 
 **[விளக்கம் | INTERPRETATION]** Those four labels are the classification under which five of the
-பத்துப்பாட்டு are read — and [`../../ilakkiyam/pathupattu.md`](../../ilakkiyam/pathupattu.md) §3
+பத்துப்பாட்டு are read — and [`../../ilakkiyam/pathupattu.md`](../ilakkiyam/pathupattu.md) §3
 already notes that the string `துறை :: ஆற்றுப்படை` is printed in the Sangam source files
 themselves. **The genre headers that modern editions print above Sangam poems come out of this
 grammatical tradition**, not out of the poems. When a reader today sees "துறை: பாணாற்றுப்படை"
@@ -811,7 +811,7 @@ people who never held a spear.
 ### 6.4 The famous line, put back in its slot
 
 **[மூலம் | SOURCE — lines 381–388, கரந்தைப் படலம், verse 35]** The repo already quotes this in
-[`../../aaivu/mudhal-oli.md`](../../aaivu/mudhal-oli.md) §1. Here is what surrounds it, which that
+[`../../aaivu/mudhal-oli.md`](../aaivu/mudhal-oli.md) §1. Here is what surrounds it, which that
 file did not have. The definition first:
 
 > (குடிநிலை இன்னது)
@@ -1033,7 +1033,7 @@ for seven centuries, **closes by declaring that the language it has just codifie
 that the change is not an error.** After 462 sutras of rule-making, the last rule is that rules
 expire.
 
-This belongs in [`../../aaivu/vithai.md`](../../aaivu/vithai.md), and it belongs to phase 2 of this
+This belongs in [`../../aaivu/vithai.md`](../aaivu/vithai.md), and it belongs to phase 2 of this
 project (**பரிணாமம்**) as directly as anything in the corpus. A prescriptive tradition that writes
 its own obsolescence clause into its final line is not the tradition that popular accounts of
 "the world's oldest living language" describe.
@@ -1052,11 +1052,11 @@ its own obsolescence clause into its final line is not the tradition that popula
 | **நன்னூல்** | Patron named: `சீய கங்கன் / அருங்கலை வினோதன் அமரா பரணன்` (lines 61–62); author `பவணந்தி`, pupil of `சன்மதி முனி` of `பொன்மதில் சனகை`; **நூ. 460 (line 1267) defers to `பிங்கலம்`** for uriccol | The **பிங்கலம்** reference is a real *terminus post quem*: நன்னூல் postdates the Piṅkalam nikaṇṭu |
 
 **[மூலம் | SOURCE — repo house positions already recorded]**
-[`../../ilakkiyam/README.md`](../../ilakkiyam/README.md) places the பதினெண்கீழ்க்கணக்கு in the
+[`../../ilakkiyam/README.md`](../ilakkiyam/README.md) places the பதினெண்கீழ்க்கணக்கு in the
 **சங்கம் மருவிய** period, ~300–600 CE, *with an explicit caution that ranges vary*, and
-நன்னூல் in the **இடைக்காலம்**, ~900–1600. [`../../varalaru/mozhi-varalaru.md`](../../varalaru/mozhi-varalaru.md)
+நன்னூல் in the **இடைக்காலம்**, ~900–1600. [`../../varalaru/mozhi-varalaru.md`](../varalaru/mozhi-varalaru.md)
 §38 gives நன்னூல் as **13th c.** and calls it "a medieval lens through which the classical language
-is still taught." [`../../agaraadhi.md`](../../agaraadhi.md) gives புறப்பொருள் வெண்பாமாலை as
+is still taught." [`../../agaraadhi.md`](../agaraadhi.md) gives புறப்பொருள் வெண்பாமாலை as
 **9th c.**
 
 **[திறந்த கேள்வி | OPEN QUESTION] Every one of these is a range, and the ranges are argued.** What
@@ -1156,7 +1156,7 @@ one.
 
 ## 10. ஐயம் | Doubt — what is uncertain here
 
-**Never empty, per [`../../marabu/README.md`](../../marabu/README.md).**
+**Never empty, per [`../../marabu/README.md`](../marabu/README.md).**
 
 - **[திறந்த கேள்வி]** **`வழும்பு`** (நாலடியார் 46). Glossed "ooze / slime." It can also be read as
   marrow, or as greasy matter, and the choice changes how clinical the list sounds. Native ear
@@ -1245,15 +1245,15 @@ one.
    faults in the file header rather than silently.
 4. **Run the நாலடியார் consistency measurement** (§3.5). 400 verses, already local, and the
    prediction is stated with a refutation condition.
-5. **Update two existing files.** [`../../marabu/paadal/003-…`](../../marabu/paadal/003-kurunthogai-002-kongu-ther.md)
+5. **Update two existing files.** [`../../marabu/paadal/003-…`](../marabu/paadal/003-kurunthogai-002-kongu-ther.md)
    §11 gains the இறையனார்-as-grammar-author connection (§5.2);
-   [`../../aaivu/mudhal-oli.md`](../../aaivu/mudhal-oli.md) §1 gains the குடிநிலை definition that
+   [`../../aaivu/mudhal-oli.md`](../aaivu/mudhal-oli.md) §1 gains the குடிநிலை definition that
    sits directly above the `கல் தோன்றி` verse (§6.4), which strengthens its existing honest reading.
 6. **Look for the counterexample to §0.1** — a post-Tolkappiyam Tamil grammar with a full
    பொருளதிகாரம். If one exists, this document's central interpretation needs revising, and the
    revision belongs in `aaivu/karuthu/` with the arc preserved.
 7. **A marabu entry from நாலடியார்.** Verse 281 or 302 is a real candidate for the aphorism rung of
-   the ladder in [`../../marabu/README.md`](../../marabu/README.md) — but only with §3's honesty
+   the ladder in [`../../marabu/README.md`](../marabu/README.md) — but only with §3's honesty
    about verse 123 carried across, because a child's inheritance should not be handed over
    pre-sanitised.
 
@@ -1261,4 +1261,4 @@ one.
 
 *மூலம்: Project Madurai e-texts `pmuni0016`, `pmuni0100`, `pmuni0147`, `pmuni0300`, `pmuni0301` —
 `_src/txt/`. Every Tamil line quoted above is copied verbatim with its line number for grep
-verification. Provenance labels follow [`../../murai.md`](../../murai.md) §11.*
+verification. Provenance labels follow [`../../murai.md`](../murai.md) §11.*

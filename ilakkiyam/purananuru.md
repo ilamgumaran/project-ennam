@@ -39,7 +39,7 @@ they are also **counts of what this edition says** — a different edition will 
 different numbers. That distinction is held open throughout.
 
 **Not re-read here.** புறம் 192 (யாதும் ஊரே) and புறம் 86 (கல்லளை போல வயிறு) are already read in
-[`../../ilakkiyam/sangam.md`](../../ilakkiyam/sangam.md) §4–§5 and are not re-opened. One new datum
+[`../../ilakkiyam/sangam.md`](../ilakkiyam/sangam.md) §4–§5 and are not re-opened. One new datum
 about 86 is added in §3, because `sangam.md` gives it no colophon and the source has one.
 
 ---
