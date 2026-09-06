@@ -94,7 +94,7 @@ before us.
 | 004 | [ஆத்திசூடி · உயிர்மெய்](paadal/004-aathichudi-uyirmei-nga.md) | ஆத்திசூடி 14–31 | **ஙப் போல் வளை** — nine consonants that cannot begin a Tamil word, and a poem that bends around all nine | 5–9 | **எழுதப்பட்டது** |
 | 005 | [கொன்றைவேந்தன் · the ladder](paadal/005-konraiventhan-the-ladder.md) | கொன்றைவேந்தன் | The second rung — and the discovery that the ladder was already built | 6–10 | **எழுதப்பட்டது** |
 | 006 | குறுந்தொகை 40 | செம்புலப் பெயனீர் | Already read in `../ilakkiyam/sangam.md` §2 — re-cut for the child layer | 8+ | planned |
-| 007 | புறநானூறு 192 | யாதும் ஊரே | The two most quoted words in Tamil, and the hard argument under them | 10+ | planned |
+| 007 | [புறநானூறு 192](paadal/007-puram-192-yaadhum-oore.md) | யாதும் ஊரே | The two most quoted words in Tamil, and the hard argument under them | 7+ / 11+ | **எழுதப்பட்டது** |
 | 008 | திருக்குறள் 391 | கற்க கசடறக் | Read in `../ilakkiyam/thirukkural.md` §2 — re-cut with yāppu and child layer | 8+ | planned |
 
 Entries are added when a poem is genuinely read, not to fill the table.
