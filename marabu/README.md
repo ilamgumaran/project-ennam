@@ -95,7 +95,7 @@ before us.
 | 005 | [கொன்றைவேந்தன் · the ladder](paadal/005-konraiventhan-the-ladder.md) | கொன்றைவேந்தன் | The second rung — and the discovery that the ladder was already built | 6–10 | **எழுதப்பட்டது** |
 | 006 | [குறுந்தொகை 40](paadal/006-kurunthogai-040-sempulappeyaneer.md) | செம்புலப் பெயனீர் | Red earth and rain — the mixture that cannot be undone | 5+ / 8+ | **எழுதப்பட்டது** |
 | 007 | [புறநானூறு 192](paadal/007-puram-192-yaadhum-oore.md) | யாதும் ஊரே | The two most quoted words in Tamil, and the hard argument under them | 7+ / 11+ | **எழுதப்பட்டது** |
-| 008 | திருக்குறள் 391 | கற்க கசடறக் | Read in `../ilakkiyam/thirukkural.md` §2 — re-cut with yāppu and child layer | 8+ | planned |
+| 008 | [திருக்குறள் 391–393](paadal/008-kural-391-393-katka.md) | கற்க கசடறக் | Learn without dross, then **stand** — and the எண்/எழுத்து ladder closing | 7+ / 9+ | **எழுதப்பட்டது** |
 
 Entries are added when a poem is genuinely read, not to fill the table.
 
