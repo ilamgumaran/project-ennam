@@ -115,8 +115,17 @@ duration beyond phonemic length. Compare புறநானூறு 192's த�
 the same command addressed to a listener with a particle (முன்னிலை அசைச்சொல்) that takes the edge
 off. He is not ordering the bee. He is asking it, formally, as one would ask a witness.
 
-**அம் + noun.** அம் = beautiful, prefixed: **அஞ்சிறை** (lovely-winged). Everywhere in Sangam poetry —
-அங்கை (lovely hand), அஞ்சொல் (lovely word).
+**அம் + noun — and why the ம் becomes ஞ்.** அம் = beautiful, prefixed: அம் + சிறை → **அஞ்சிறை**
+(lovely-winged). This entry originally stopped at the split and never said why the letter changed.
+The rule is named in the grammar — தொகைமரபு 27: *அம்மின் இறுதி **க ச த**க் காலை / தன் மெய் **திரிந்து
+ங ஞ ந** ஆகும்* — the final of அம், when க/ச/த follows, changes to ங/ஞ/ந. Here **ச** follows, so
+**ம் → ஞ்**.
+
+And the substitution is not arbitrary. ங்/க, ஞ்/ச, ந்/த, ம்/ப are the nasal–stop pairs of
+நூன்மரபு 19–20: **the nasal shifts to the place of articulation of the stop that follows it.** Same
+pattern in அங்கை (அம்+கை, க → ங்) and அந்தண் (அம்+தண், த → ந்). One rule, three outcomes, chosen by
+what comes next. Full system:
+[`../../ilakkanam/tholkappiyam-punarchi.md`](../../ilakkanam/tholkappiyam-punarchi.md).
 
 ## 7. யாப்பு | The music
 
