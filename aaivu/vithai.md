@@ -119,7 +119,27 @@ of resonance-flattery this repo is meant to guard against. What is **[மூல�
 chapter's final நூற்பா makes the receiver's faculty a precondition of relish, and names eye and ear
 as the channels. Full reading: `../ilakkanam/tholkappiyam-meippattiyal.md` §8.
 
-## வி-022 · இரு பா — a two-thousand-year-old classification predicted a measurement
+## வி-022 · இரு பா — ~~a classification that predicted a measurement~~ **WITHDRAWN 2026-09-06**
+
+> **This seed did not survive its own experiment.** [`sothanai-008-iru-paa.md`](sothanai-008-iru-paa.md)
+> tested the two-family claim on three measures chosen before the data was seen, and **the
+> pre-registered failure condition triggered on all three**: கலித்தொகை clusters with the ஆசிரியம்
+> corpora, not with வெண்பா, on opening அசை (38.3 vs வெ 24.2 / ஆ 28.0), on overall நேர் density, and
+> on within-line மோனை. The claim below that Tolkāppiyam's classification predicted out-of-sample is
+> **withdrawn**.
+>
+> **What survives as fact:** கலித்தொகை's எதுகை density really is 8.4× chance, inside the வெண்பா
+> band. One measure, still unexplained. **What survives as a better question:** on opening அசை கலி
+> is far from *both* families and nearest to **பரிபாடல்**, the mixed-and-musical control that was
+> committed to nothing. கலி may simply be its own thing — which is what having a பா of its own means.
+> And if கலி resembles வெண்பா on none of syllable rhythm, line length or alliteration, then **நடை**
+> in நூ. 104 is probably not a property of the *text*: வெண்பா's gait is given in நூ. 78 only as
+> `அதாஅன்று`, *it is not that*, and gait may mean performance — tempo, ஓசை — which no e-text can
+> hold. That is now the live hypothesis, and it is one only the ear can settle.
+>
+> *The original entry is kept below unedited, per `../murai.md` §10.*
+
+### The original seed, as written 2026-08-23
 
 தொல்காப்பியம் does not treat its four பா as four independent things. நூற்பா 103–104 collapse them
 into **two families**:
