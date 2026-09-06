@@ -186,3 +186,42 @@ the same question, and பரிபாடல் (mixed, 6.3×) is the natural co
 **[எல்லை | LIMIT]** One measure, one anthology per class, and rates that are lower bounds
 (printed word ≠ சீர்). This is **suggestive, not established** — the honest status is *one
 successful out-of-sample prediction*, which is exactly one more than most classifications get.
+
+## வி-023 · உரிச்சொல் — a word-class defined by not being self-evident
+
+தொல்காப்பியம் recognises four kinds of word: பெயர், வினை, இடை, and **உரி**. The first three map onto
+categories any grammar has. The fourth is defined like this:
+
+> **வெளிப்படு சொல்லே கிளத்தல் வேண்டா**
+> **வெளிப்பட வாரா உரிச்சொல் மேன.** (உரியியல் 2)
+
+*A word whose meaning comes out plainly needs no explaining. **உரிச்சொல் are those that do not come
+out plainly.*** A formal word-class whose constitutive property is **opacity to the reader** — and
+having named it, the chapter spends itself glossing its members one sutra at a time. A grammar
+carrying a dictionary of its own difficulty.
+
+நூற்பா 1 adds the rest: they arrive **by sound, by implication, or by quality** (இசையினும் குறிப்பினும்
+பண்பினும்) rather than by denotation; their grammatical body **staggers** between noun and verb
+(*மெய் தடுமாறி*); one word may hold many meanings and many words one meaning.
+
+**Why this is a seed.** வி-008 found reader-completion in *forms* — the Kural and the திணை code
+compress by requiring the reader to close the arc. வி-021 found it in *persons* — மெய்ப்பாட்டியல்
+closes by requiring **உணர்வு** in the receiver. உரியியல் is the same requirement at the level of the
+**word**. The tradition located reader-dependence at three levels and gave the lexical one a formal
+class with entry conditions and a gloss convention.
+
+**[கருதுகோள் | HYPOTHESIS] The phase-2 use.** A language being extended to carry realised thought
+needs somewhere to put terms that are *precise but not decomposable* — learned by acquaintance, not
+built from parts. Tamil has that slot already, named. **A coinage that fails as a compound might
+succeed as a உரிச்சொல்** — glossed the way நூ. 4–16 gloss theirs, *X is Y*, and left to converge
+through use. Testable: propose, gloss minimally, observe whether use converges or scatters. This is
+a design option the project did not know it had, and it sits directly against வி-015's
+shared-tuning model — a உரிச்சொல் *is* a term that carries only for a tuned receiver.
+
+**And it runs the other way from most limits.** English has no உரிச்சொல் class and no single word for
+**பசப்பு** — the sallow pallor that comes over a woman's body in separation, which the grammar
+glosses only as *நிறன் ஆகும்*, "it is a colour," and leaves the reader to complete. A second case of
+Tamil out-resolving English alongside வி-020 (அரிவை), and structurally different: வி-020 is a
+**closed ordered series**, this is an **open class defined by opacity**.
+
+Full reading: `../ilakkanam/tholkappiyam-uriyiyal.md`.
