@@ -86,6 +86,13 @@ one source file form a graded series — ஆத்திசூடி at a mean *
 load, then the Kural, then the Sangam. This sequence is a reconstruction of one that was standing
 before us.
 
+**And the ladder carries content, not only difficulty.** [Entry 008](paadal/008-kural-391-393-katka.md) §7
+found the same claim on all three rungs, always at the letter **எ**: ஆத்திசூடி's *எண் எழுத்து இகழேல்*
+— don't despise them — then கொன்றைவேந்தன்'s *எண்ணும் எழுத்தும் கண் எனத் தகும்* — they deserve to be
+called eyes — then குறள் 392's *கண்ணென்ப வாழும் உயிர்க்கு* — they **are** the eyes of the living.
+Prohibition, comparison, definition. The child's book is not simpler material; it is the Kural's
+claim cut to a size a child can hold.
+
 | # | பதிவு | Text | Why here | வயது · age | நிலை |
 |---|---|---|---|---|---|
 | 001 | [குறள் 1](paadal/001-kural-001-agara-mudhala.md) | திருக்குறள் 1 — அகர முதல | The first letter as the model of first things. The doorway to the script. | 4+ / all | **எழுதப்பட்டது** |
@@ -96,6 +103,12 @@ before us.
 | 006 | [குறுந்தொகை 40](paadal/006-kurunthogai-040-sempulappeyaneer.md) | செம்புலப் பெயனீர் | Red earth and rain — the mixture that cannot be undone | 5+ / 8+ | **எழுதப்பட்டது** |
 | 007 | [புறநானூறு 192](paadal/007-puram-192-yaadhum-oore.md) | யாதும் ஊரே | The two most quoted words in Tamil, and the hard argument under them | 7+ / 11+ | **எழுதப்பட்டது** |
 | 008 | [திருக்குறள் 391–393](paadal/008-kural-391-393-katka.md) | கற்க கசடறக் | Learn without dross, then **stand** — and the எண்/எழுத்து ladder closing | 7+ / 9+ | **எழுதப்பட்டது** |
+
+| 010 | ஐங்குறுநூறு — the three-line poems | ஐங்குறுநூறு | The shortest poems in the corpus; several a child could learn whole — candidates identified in `../ilakkiyam/natrinai-ainkurunuru.md` §3.5 | 6+ | planned |
+| 011 | பட்டினப்பாலை — the harbour | பத்துப்பாட்டு | What the ancient world physically looked like; the best documentary passage in Tamil (`../ilakkiyam/pathupattu.md`) | 9+ | planned |
+| 012 | சிலப்பதிகாரம் — கண்ணகி | காப்பியம் | The first named characters in Tamil, and the அகம் convention broken (`../ilakkiyam/silappathikaram.md`) | 10+ | planned |
+| 013 | நாலடியார் — the hard ones | பதினெண்கீழ்க்கணக்கு | The moral edge நாலடியார் has over the Kural (`../ilakkanam/naladiyar-and-agapporul-tradition.md` §3) | 10+ | planned |
+| 014 | புறநானூறு 278 | the mother and the shield | **Verify the number first** — `../ilakkiyam/purananuru.md` flags edition drift on exactly this poem | 11+ | planned |
 
 Entries are added when a poem is genuinely read, not to fill the table.
 

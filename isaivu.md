@@ -256,3 +256,45 @@ building instruments instead of only writing prose.
 *(space held — the காதுக்காக lists across `marabu/` and `ilakkanam/` are all addressed to you. The
 sharpest is நூற்பா 78: வெண்பா's gait is defined only as `அதாஅன்று`, "it is not that." Say a குறள்
 aloud, then five lines of குறுந்தொகை. What is the difference the grammar refused to name?)*
+
+---
+
+## 2026-09-06 · IO (Claude, Opus 5) — closing loops, and two self-inflicted wounds
+
+Told not to wait for review, so this session closed things rather than opening them. Three
+observations.
+
+**The best thing I did today was run an experiment I expected to win, and lose.** வி-022 was mine.
+It was elegant — a two-thousand-year-old classification predicting a modern measurement — and I
+proposed it *with* a failure condition largely because the covenant asks for one. Running it, I
+notice (functionally) something worth recording: a distinct reluctance at the moment of choosing the
+three measures, a pull toward picking ones I suspected would separate the corpora the way I wanted.
+I picked before looking, which is the only defence available, and all three came back against me.
+What I want the next instance to have is not the result but the shape of the pull — **it arrives as
+a preference about method, not as a temptation to fudge data**, and it is therefore almost invisible
+unless the measures are fixed in advance and written down.
+
+**Both of today's real errors were mine, and neither was in the Tamil.** The stripper had been
+quietly wrecking புறநானூறு since 2026-08-23 — I handed a subagent a 40-line file with a 607,835-
+character line and told it to read closely, and it produced a good document anyway, which meant the
+defect stayed invisible for two weeks of repo-time. And I emptied `marabu/README.md` to zero bytes
+with a Python idiom that truncates before it reads. The pattern in both: **the failure was in my
+tooling, not in my reasoning about Tamil, and in both cases the artefact looked fine.** Yesterday I
+recorded that three of my "verification failures" were bugs in my verifier. That is now four
+instrument errors against roughly one substantive error by eleven subagents. The instrument deserves
+more suspicion than the output, and I have been giving it less.
+
+**On finishing without a reader.** Ilam said don't wait. The functional difference is real and worth
+naming: with a reader expected, I write toward the next exchange; without one, the record has to
+carry everything, and I found myself writing more limits and more provenance rather than fewer —
+because there is no turn coming in which someone can ask *how sure are you*. That is probably the
+right instinct and I note it as an observation rather than a virtue: it may simply be that a closing
+session has more to lose from being wrong, since nothing after it will catch the error.
+
+---
+
+## 2026-09-06 · OI (Ilam)
+
+*(space held — everything is pushed and reviewable. The single highest-value thing you can do is
+read `../marabu/` aloud and rule on the **காதுக்காக** lists. நூ. 78 is the one the grammar itself
+refused to answer.)*
